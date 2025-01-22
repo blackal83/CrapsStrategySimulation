@@ -7,10 +7,19 @@ namespace GamblingAnalysis
     public class CrapsGame
     {
         private Random _r;
+        private MockRandom _mr = new MockRandom();
+        private bool testing = false;
         static int numRolls = 0;
 
         public CrapsGame(Random r) {
-            this._r = r;
+            if (!testing)
+            { 
+                this._r = r;
+            }
+            else
+            {
+                this._r = _mr;
+            }
         }
 
         public int DuckRaguBet(int bet)
@@ -93,7 +102,7 @@ namespace GamblingAnalysis
         private int HandleSevenRoll(GameState gameState, int bet)
         {
             Console.WriteLine("Shooter Rolled a 7");
-            int total = gameState.Winnings - bet;
+            int total = gameState.Winnings - gameState.Bet;
             Console.WriteLine("Total Winnings: " + total);
             return total;
         }
@@ -425,12 +434,45 @@ namespace GamblingAnalysis
            
         }
 
+        private class MockRandom : Random
+        {
+            private Queue<int> _rolls;
+
+            public MockRandom()
+            {
+                var rolls = new List<int> {8, 9, 4, 10, 8, 6, 4, 7}; // Simulate rolls: 1+2+2, 3+4+2, 5+0+2
+                //var rolls = new List<int> { 3, 3, 4, 8, 4, 4, 3, 3, 2, 2, 1, 1, 1, 4}; // Simulate rolls: 1+2+2, 3+4+2, 5+0+2
+                _rolls = new Queue<int>(rolls);
+            }
+
+            public override int Next(int maxValue)
+            {
+                try
+                {
+                    return _rolls.Dequeue();
+                }
+                catch (InvalidOperationException)
+                {
+                    return -1;
+                }
+            }
+        }
+
         private byte Roll()
         {
             numRolls++;
-            byte roll = (byte)(this._r.Next(6) + this._r.Next(6) + 2);
+            byte roll;
+            if (!testing) 
+            {
+                roll = (byte)(this._r.Next(6) + this._r.Next(6) + 2);
+            }
+            else
+            {
+                roll = (byte)(_r.Next(6));
+            }
             Console.Write("Roll "+ numRolls + ": " + roll + " --- ");
             return roll;
+
         }
     }
 }

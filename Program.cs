@@ -21,9 +21,10 @@ namespace GamblingAnalysis
             Random r = new Random();
 
 
-                    IGamblingStrategy strategy;
-                    var crapsGame = new CrapsGame(r);
-                    strategy = new CrapsGamblingStrategy(crapsGame);
+            IGamblingStrategy strategy;
+            var crapsGame = new CrapsGame(r);
+            strategy = new CrapsGamblingStrategy(crapsGame);
+            strategy.Bet(24);
                          
 
                     
