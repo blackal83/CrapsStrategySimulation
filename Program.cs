@@ -21,53 +21,28 @@ namespace CrapsStrategySimulator
             Random r = new Random();
 
 
-            ICrapsStrategy strategy;
-            var crapsGame = new CrapsGame(r);
-            strategy = new CrapsGamblingStrategy(crapsGame);
-            strategy.Bet(24);
+            for(int j=0;j < 25;j++){
+                ICrapsStrategy strategy;
+                var crapsGame = new CrapsGame(r);
+                strategy = new CrapsGamblingStrategy(crapsGame);
+                for (int i = 0; i < 10; i++)
+                {
+                    var result = strategy.Bet(24);
+                }
+                Console.WriteLine("Total Shooters: " + (strategy.shooters-1) + Environment.NewLine);
+                
+                Console.WriteLine("Winning Shooters: " + strategy.winTracker[0]);
+                int average_win = strategy.winTracker[0] == 0 ? 0 : strategy.winTracker[1] / strategy.winTracker[0];
+                Console.WriteLine("Avg Money won per win: " + average_win + Environment.NewLine);
+                
+                Console.WriteLine("Losing Shooters: " + strategy.lossTracker[0]);
+                int average_loss = strategy.lossTracker[0] == 0 ? 0 : strategy.lossTracker[1] / strategy.lossTracker[0];
+                Console.WriteLine("Avg Money won per win: " + average_loss + Environment.NewLine);
+
+                Console.WriteLine("Total winnings: " + strategy.totalWinnings + Environment.NewLine + "---------------------");
+            }
         }
 
-        /// <summary>
-        /// Represents a strategy where you make flat bets for your whole bankroll and pocket winnings.
-        /// </summary>
-        /// <param name="bankroll">Bankroll entering with.</param>
-        /// <param name="bet">Flat bet per game.</param>
-        /// <param name="gamblingStrategy">Strategy/game played</param>
-        /// <returns>Money at the end of the session</returns>
-        static int GambleAllBankroll(int bankroll, int bet, ICrapsStrategy gamblingStrategy)
-        {
-            int winnings = 0;
-            while (bankroll >= bet)
-            {
-                var result = gamblingStrategy.Bet(bet);
-                if (result >= 0)
-                {
-                    winnings += result;
-                }
-                else
-                {
-                    bankroll += result;
-                }
-            }
-
-            return winnings + bankroll;
-        } 
-
-        static int MakeNBets(int money, int bet, int numBets, ICrapsStrategy gamblingStrategy)
-        {
-            for (int i = 0; i < numBets; i++)
-            {
-                var result = gamblingStrategy.Bet(bet);
-                // Don't count break-evens as a bet.
-                while (result == 0)
-                {
-                    result = gamblingStrategy.Bet(bet);
-                }
-
-                money += result;
-            }
-
-            return money;
-        }
+        
     }
 }

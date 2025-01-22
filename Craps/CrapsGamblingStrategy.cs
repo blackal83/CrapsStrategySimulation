@@ -3,7 +3,7 @@
     public class CrapsGamblingStrategy : ICrapsStrategy
     {
         private CrapsGame _crapsGame;
-        public int shooters { get; private set; } = 0;
+        public int shooters { get; private set; } = 1;
         public int totalWinnings { get; private set; } = 0;
         public int[] winTracker { get; private set; } = {0,0};
         public int[] lossTracker { get; private set; } = {0,0};
@@ -15,7 +15,7 @@
         public int Bet(int betAmount)
         {
             //return this._crapsGame.DontPassBetWithOdds(betAmount);
-            int result = this._crapsGame.DuckRaguBet(betAmount);
+            int result = this._crapsGame.DuckRaguBet(betAmount, shooters);
             shooters++;
             totalWinnings += result;
             if (result >= 0) { //a push is considered a win in my book, since you didn't lose money

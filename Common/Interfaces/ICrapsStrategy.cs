@@ -2,6 +2,10 @@
 {
     public interface ICrapsStrategy
     {
+        public int shooters { get; }
+        public int totalWinnings { get; }
+        public int[] winTracker { get;  }
+        public int[] lossTracker { get;  }
         /// <summary>
         /// Runs a bet using the gambling strategy.
         /// </summary>

@@ -8,8 +8,10 @@ namespace CrapsStrategySimulator
     {
         private Random _r;
         private MockRandom _mr = new MockRandom();
-        private bool testing = false;
+        private static readonly bool testing = false;
+        private static readonly bool logEnabled = false;
         static int numRolls = 0;
+        static int shooterNum = 0;
 
         public CrapsGame(Random r) {
             if (!testing)
@@ -22,12 +24,14 @@ namespace CrapsStrategySimulator
             }
         }
 
-        public int DuckRaguBet(int bet)
+        public int DuckRaguBet(int bet, int shooter)
         {
             ValidateBet(bet);
 
             List<PowerPressEntry> powerPressTable = InitPowerPressTable();
+            shooterNum = shooter;
             GameState gameState = InitializeGameState(bet);
+            
 
             while (true)
             {
@@ -35,7 +39,7 @@ namespace CrapsStrategySimulator
 
                 if (IsPushRoll(roll))
                 {
-                    Console.WriteLine("Push.");
+                    Log("Push.");
                     continue;
                 }
 
@@ -76,11 +80,11 @@ namespace CrapsStrategySimulator
             };
             while (IsInvalidComeOutRoll(gameState.ComeOutRoll))
             {
-                Console.WriteLine("No Point Set.");
+                Log("No Point Set.");
                 gameState.ComeOutRoll = Roll();
             }
             gameState.Point = gameState.ComeOutRoll;
-            Console.WriteLine("Point set to: " + gameState.Point);
+            Log("Point set to: " + gameState.Point);
             return gameState;
         }
 
@@ -101,9 +105,9 @@ namespace CrapsStrategySimulator
 
         private int HandleSevenRoll(GameState gameState, int bet)
         {
-            Console.WriteLine("Shooter Rolled a 7");
+            Log("Shooter Rolled a 7");
             int total = gameState.Winnings - gameState.Bet;
-            Console.WriteLine("Total Winnings: " + total);
+            Log("Total Winnings: " + total);
             return total;
         }
 
@@ -115,7 +119,7 @@ namespace CrapsStrategySimulator
                 case 5:
                 case 9:
                 case 10:
-                    Console.WriteLine("No Win");
+                    Log("No Win");
                     break;
                 case 6:
                 case 8:
@@ -175,15 +179,15 @@ namespace CrapsStrategySimulator
 
         private void SetNewPoint(GameState gameState)
         {
-            Console.WriteLine("Shooter hit the point (" + gameState.Point + ")");
+            Log("Shooter hit the point (" + gameState.Point + ")");
             gameState.ComeOutRoll = Roll();
             while (IsInvalidComeOutRoll(gameState.ComeOutRoll))
             {
-                Console.WriteLine("No Point Set.");
+                Log("No Point Set.");
                 gameState.ComeOutRoll = Roll();
             }
             gameState.Point = gameState.ComeOutRoll;
-            Console.WriteLine("Point set to: " + gameState.Point);
+            Log("Point set to: " + gameState.Point);
         }
 
         private static List<PowerPressEntry> InitPowerPressTable()
@@ -295,7 +299,7 @@ namespace CrapsStrategySimulator
             gameState.IsPressed[RollIndex.Six] = false;
             gameState.IsPressed[RollIndex.Eight] = false;
             
-            Console.WriteLine("Reset to " + gameState.ResetBet + " and " + gameState.ResetBet + " on 6/8");
+            Log("Reset to " + gameState.ResetBet + " and " + gameState.ResetBet + " on 6/8");
         }
 
         private static void GoAcross64(GameState gameState, List<PowerPressEntry> powerPressTable, byte roll)
@@ -315,7 +319,7 @@ namespace CrapsStrategySimulator
                 gameState.CurrentBets[RollIndex.Nine] = 10;
                 gameState.CurrentBets[RollIndex.Ten] = 10;
                 gameState.Bet = 64;
-                Console.WriteLine("Moved to 64 across.");
+                Log("Moved to 64 across.");
             }
             else if (gameState.ResetBet == 6) 
             {
@@ -326,7 +330,7 @@ namespace CrapsStrategySimulator
                 gameState.CurrentBets[RollIndex.Nine] = 5;
                 gameState.CurrentBets[RollIndex.Ten] = 5;
                 gameState.Bet = 32;
-                Console.WriteLine("Moved to 32 across.");
+                Log("Moved to 32 across.");
             }
 
         }
@@ -337,7 +341,7 @@ namespace CrapsStrategySimulator
             var powerPress = powerPressTable.Find(x => x.InitialBet == gameState.CurrentBets[cbIndex] && x.Point == roll);
             if (powerPress == null)
             {
-                Console.WriteLine("Could not find initialbet and point match in the power press table, exiting...");
+                Log("Could not find initialbet and point match in the power press table, exiting...");
                 System.Environment.Exit(1);
             }
             gameState.Winnings += powerPress.Win;
@@ -346,7 +350,7 @@ namespace CrapsStrategySimulator
                 gameState.IsPressed[cbIndex] = false;
             }
             gameState.HasCollected = true;
-            Console.WriteLine("Won " + powerPress.Win + " on an initial bet of " + powerPress.InitialBet + " and collected it.");
+            Log("Won " + powerPress.Win + " on an initial bet of " + powerPress.InitialBet + " and collected it.");
         }
 
         private static void PowerPress(GameState gameState, List<PowerPressEntry> powerPressTable, byte roll)
@@ -356,7 +360,7 @@ namespace CrapsStrategySimulator
 
             if (powerPress == null)
             {
-                Console.WriteLine("Could not find initialbet and point match in the power press table, exiting...");
+                Log("Could not find initialbet and point match in the power press table, exiting...");
                 System.Environment.Exit(1);
             }
             gameState.Winnings += powerPress.Win;
@@ -364,7 +368,40 @@ namespace CrapsStrategySimulator
             gameState.CurrentBets[cbIndex] = powerPress.NewBet;
             gameState.IsPressed[cbIndex] = true;
             gameState.Bet = gameState.CurrentBets.Sum();
-            Console.WriteLine("Won " + powerPress.Win + " on an initial bet of " + powerPress.InitialBet + " and pressed to " + powerPress.NewBet + ".");
+            Log("Won " + powerPress.Win + " on an initial bet of " + powerPress.InitialBet + " and pressed to " + powerPress.NewBet + ".");
+        }
+
+        private byte Roll()
+        {
+            numRolls++;
+            byte roll;
+            if (!testing) 
+            {
+                roll = (byte)(this._r.Next(6) + this._r.Next(6) + 2);
+            }
+            else
+            {
+                roll = (byte)(_r.Next(6));
+            }
+            Log("Shooter "+ shooterNum + " - Roll "+ numRolls + ": " + roll + " --- ", false);
+            return roll;
+
+        }
+
+        private static void Log(string logmessage, bool newline = true)
+        {
+            if (logEnabled)
+            {
+                if (newline)
+                {
+                    Console.WriteLine(logmessage);
+                }
+                else
+                {
+                    Console.Write(logmessage);
+                }
+            }
+            
         }
 
         private class PowerPressEntry
@@ -458,21 +495,6 @@ namespace CrapsStrategySimulator
             }
         }
 
-        private byte Roll()
-        {
-            numRolls++;
-            byte roll;
-            if (!testing) 
-            {
-                roll = (byte)(this._r.Next(6) + this._r.Next(6) + 2);
-            }
-            else
-            {
-                roll = (byte)(_r.Next(6));
-            }
-            Console.Write("Roll "+ numRolls + ": " + roll + " --- ");
-            return roll;
-
-        }
+        
     }
 }
