@@ -2,7 +2,7 @@
 using System.Dynamic;
 using System.Reflection.Metadata.Ecma335;
 
-namespace GamblingAnalysis
+namespace CrapsStrategySimulator
 {
     public class CrapsGame
     {

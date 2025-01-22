@@ -1,6 +1,6 @@
-﻿namespace GamblingAnalysis
+﻿namespace CrapsStrategySimulator
 {
-    public class CrapsGamblingStrategy : IGamblingStrategy
+    public class CrapsGamblingStrategy : ICrapsStrategy
     {
         private CrapsGame _crapsGame;
         public int shooters { get; private set; } = 0;

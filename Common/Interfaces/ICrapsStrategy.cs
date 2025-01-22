@@ -1,6 +1,6 @@
-﻿namespace GamblingAnalysis
+﻿namespace CrapsStrategySimulator
 {
-    public interface IGamblingStrategy
+    public interface ICrapsStrategy
     {
         /// <summary>
         /// Runs a bet using the gambling strategy.

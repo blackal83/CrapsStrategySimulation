@@ -1,6 +1,6 @@
 ﻿using System.Reflection.PortableExecutable;
 
-namespace GamblingAnalysis
+namespace CrapsStrategySimulator
 {
     public enum Game
     {
@@ -21,14 +21,10 @@ namespace GamblingAnalysis
             Random r = new Random();
 
 
-            IGamblingStrategy strategy;
+            ICrapsStrategy strategy;
             var crapsGame = new CrapsGame(r);
             strategy = new CrapsGamblingStrategy(crapsGame);
             strategy.Bet(24);
-                         
-
-                    
-
         }
 
         /// <summary>
@@ -38,7 +34,7 @@ namespace GamblingAnalysis
         /// <param name="bet">Flat bet per game.</param>
         /// <param name="gamblingStrategy">Strategy/game played</param>
         /// <returns>Money at the end of the session</returns>
-        static int GambleAllBankroll(int bankroll, int bet, IGamblingStrategy gamblingStrategy)
+        static int GambleAllBankroll(int bankroll, int bet, ICrapsStrategy gamblingStrategy)
         {
             int winnings = 0;
             while (bankroll >= bet)
@@ -57,7 +53,7 @@ namespace GamblingAnalysis
             return winnings + bankroll;
         } 
 
-        static int MakeNBets(int money, int bet, int numBets, IGamblingStrategy gamblingStrategy)
+        static int MakeNBets(int money, int bet, int numBets, ICrapsStrategy gamblingStrategy)
         {
             for (int i = 0; i < numBets; i++)
             {
