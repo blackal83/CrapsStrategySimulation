@@ -1,0 +1,2848 @@
+------------------------------------------------------------------------------
+You may only use the Microsoft Visual Studio .NET/C/C++ Debugger (vsdbg) with
+Visual Studio Code, Visual Studio or Visual Studio for Mac software to help you
+develop and test your applications.
+------------------------------------------------------------------------------
+Shooter 1 - Roll 1: 7 --- No Point Set.
+Shooter 1 - Roll 2: 8 --- Point set to: 8
+Shooter 1 - Roll 3: 11 --- Push.
+Shooter 1 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 2 - Roll 1: 11 --- No Point Set.
+Shooter 2 - Roll 2: 7 --- No Point Set.
+Shooter 2 - Roll 3: 6 --- Point set to: 6
+Shooter 2 - Roll 4: 9 --- No Win
+Shooter 2 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 2 - Roll 6: 7 --- No Point Set.
+Shooter 2 - Roll 7: 8 --- Point set to: 8
+Shooter 2 - Roll 8: 4 --- No Win
+Shooter 2 - Roll 9: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 2 - Roll 10: 5 --- No Win
+Shooter 2 - Roll 11: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 3 - Roll 1: 6 --- Point set to: 6
+Shooter 3 - Roll 2: 9 --- No Win
+Shooter 3 - Roll 3: 11 --- Push.
+Shooter 3 - Roll 4: 9 --- No Win
+Shooter 3 - Roll 5: 10 --- No Win
+Shooter 3 - Roll 6: 5 --- No Win
+Shooter 3 - Roll 7: 4 --- No Win
+Shooter 3 - Roll 8: 9 --- No Win
+Shooter 3 - Roll 9: 2 --- Push.
+Shooter 3 - Roll 10: 4 --- No Win
+Shooter 3 - Roll 11: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 3 - Roll 12: 5 --- No Win
+Shooter 3 - Roll 13: 4 --- No Win
+Shooter 3 - Roll 14: 4 --- No Win
+Shooter 3 - Roll 15: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 4 - Roll 1: 9 --- Point set to: 9
+Shooter 4 - Roll 2: 10 --- No Win
+Shooter 4 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 4 - Roll 4: 8 --- Point set to: 8
+Shooter 4 - Roll 5: 11 --- Push.
+Shooter 4 - Roll 6: 9 --- No Win
+Shooter 4 - Roll 7: 4 --- No Win
+Shooter 4 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 4 - Roll 9: 5 --- No Win
+Shooter 4 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 5 - Roll 1: 8 --- Point set to: 8
+Shooter 5 - Roll 2: 10 --- No Win
+Shooter 5 - Roll 3: 2 --- Push.
+Shooter 5 - Roll 4: 4 --- No Win
+Shooter 5 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 5 - Roll 6: 10 --- Point set to: 10
+Shooter 5 - Roll 7: 3 --- Push.
+Shooter 5 - Roll 8: 9 --- No Win
+Shooter 5 - Roll 9: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 5 - Roll 10: 4 --- No Win
+Shooter 5 - Roll 11: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 5 - Roll 12: 9 --- No Win
+Shooter 5 - Roll 13: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 5 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: 13
+Shooter 6 - Roll 1: 7 --- No Point Set.
+Shooter 6 - Roll 2: 5 --- Point set to: 5
+Shooter 6 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 6 - Roll 4: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 6 - Roll 5: 10 --- No Win
+Shooter 6 - Roll 6: 5 --- No Win
+Shooter hit the point (5)
+Shooter 6 - Roll 7: 6 --- Point set to: 6
+Shooter 6 - Roll 8: 10 --- No Win
+Shooter 6 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 7 - Roll 1: 4 --- Point set to: 4
+Shooter 7 - Roll 2: 12 --- Push.
+Shooter 7 - Roll 3: 4 --- No Win
+Shooter hit the point (4)
+Shooter 7 - Roll 4: 7 --- No Point Set.
+Shooter 7 - Roll 5: 7 --- No Point Set.
+Shooter 7 - Roll 6: 7 --- No Point Set.
+Shooter 7 - Roll 7: 8 --- Point set to: 8
+Shooter 7 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 8 - Roll 1: 7 --- No Point Set.
+Shooter 8 - Roll 2: 8 --- Point set to: 8
+Shooter 8 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 8 - Roll 4: 11 --- No Point Set.
+Shooter 8 - Roll 5: 5 --- Point set to: 5
+Shooter 8 - Roll 6: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 8 - Roll 7: 11 --- Push.
+Shooter 8 - Roll 8: 4 --- No Win
+Shooter 8 - Roll 9: 9 --- No Win
+Shooter 8 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 9 - Roll 1: 3 --- No Point Set.
+Shooter 9 - Roll 2: 6 --- Point set to: 6
+Shooter 9 - Roll 3: 10 --- No Win
+Shooter 9 - Roll 4: 12 --- Push.
+Shooter 9 - Roll 5: 10 --- No Win
+Shooter 9 - Roll 6: 10 --- No Win
+Shooter 9 - Roll 7: 9 --- No Win
+Shooter 9 - Roll 8: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 9 - Roll 9: 5 --- No Win
+Shooter 9 - Roll 10: 9 --- No Win
+Shooter 9 - Roll 11: 5 --- No Win
+Shooter 9 - Roll 12: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 10 - Roll 1: 5 --- Point set to: 5
+Shooter 10 - Roll 2: 9 --- No Win
+Shooter 10 - Roll 3: 4 --- No Win
+Shooter 10 - Roll 4: 4 --- No Win
+Shooter 10 - Roll 5: 9 --- No Win
+Shooter 10 - Roll 6: 11 --- Push.
+Shooter 10 - Roll 7: 9 --- No Win
+Shooter 10 - Roll 8: 11 --- Push.
+Shooter 10 - Roll 9: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 10 - Roll 10: 5 --- No Win
+Shooter hit the point (5)
+Shooter 10 - Roll 11: 6 --- Point set to: 6
+Shooter 10 - Roll 12: 4 --- No Win
+Shooter 10 - Roll 13: 10 --- No Win
+Shooter 10 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 11 - Roll 1: 10 --- Point set to: 10
+Shooter 11 - Roll 2: 5 --- No Win
+Shooter 11 - Roll 3: 5 --- No Win
+Shooter 11 - Roll 4: 3 --- Push.
+Shooter 11 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 11 - Roll 6: 9 --- No Win
+Shooter 11 - Roll 7: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 11 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 11 - Roll 9: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 11 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -4
+Shooter 12 - Roll 1: 6 --- Point set to: 6
+Shooter 12 - Roll 2: 4 --- No Win
+Shooter 12 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 13 - Roll 1: 11 --- No Point Set.
+Shooter 13 - Roll 2: 3 --- No Point Set.
+Shooter 13 - Roll 3: 9 --- Point set to: 9
+Shooter 13 - Roll 4: 9 --- No Win
+Shooter hit the point (9)
+Shooter 13 - Roll 5: 5 --- Point set to: 5
+Shooter 13 - Roll 6: 10 --- No Win
+Shooter 13 - Roll 7: 3 --- Push.
+Shooter 13 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 13 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 14 - Roll 1: 7 --- No Point Set.
+Shooter 14 - Roll 2: 6 --- Point set to: 6
+Shooter 14 - Roll 3: 9 --- No Win
+Shooter 14 - Roll 4: 10 --- No Win
+Shooter 14 - Roll 5: 10 --- No Win
+Shooter 14 - Roll 6: 5 --- No Win
+Shooter 14 - Roll 7: 5 --- No Win
+Shooter 14 - Roll 8: 5 --- No Win
+Shooter 14 - Roll 9: 4 --- No Win
+Shooter 14 - Roll 10: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 14 - Roll 11: 4 --- No Win
+Shooter 14 - Roll 12: 2 --- Push.
+Shooter 14 - Roll 13: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 14 - Roll 14: 7 --- No Point Set.
+Shooter 14 - Roll 15: 10 --- Point set to: 10
+Shooter 14 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 15 - Roll 1: 2 --- No Point Set.
+Shooter 15 - Roll 2: 4 --- Point set to: 4
+Shooter 15 - Roll 3: 10 --- No Win
+Shooter 15 - Roll 4: 5 --- No Win
+Shooter 15 - Roll 5: 10 --- No Win
+Shooter 15 - Roll 6: 5 --- No Win
+Shooter 15 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 15 - Roll 8: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 15 - Roll 9: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 15 - Roll 10: 3 --- Push.
+Shooter 15 - Roll 11: 11 --- Push.
+Shooter 15 - Roll 12: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 15 - Roll 13: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 15 - Roll 14: 12 --- Push.
+Shooter 15 - Roll 15: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 15 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: 8
+Shooter 16 - Roll 1: 6 --- Point set to: 6
+Shooter 16 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 17 - Roll 1: 3 --- No Point Set.
+Shooter 17 - Roll 2: 10 --- Point set to: 10
+Shooter 17 - Roll 3: 5 --- No Win
+Shooter 17 - Roll 4: 4 --- No Win
+Shooter 17 - Roll 5: 10 --- No Win
+Shooter hit the point (10)
+Shooter 17 - Roll 6: 2 --- No Point Set.
+Shooter 17 - Roll 7: 7 --- No Point Set.
+Shooter 17 - Roll 8: 11 --- No Point Set.
+Shooter 17 - Roll 9: 9 --- Point set to: 9
+Shooter 17 - Roll 10: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 17 - Roll 11: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 17 - Roll 12: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 17 - Roll 13: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 17 - Roll 14: 2 --- Push.
+Shooter 17 - Roll 15: 10 --- No Win
+Shooter 17 - Roll 16: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 17 - Roll 17: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (9)
+Shooter 17 - Roll 18: 6 --- Point set to: 6
+Shooter 17 - Roll 19: 11 --- Push.
+Shooter 17 - Roll 20: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 17 - Roll 21: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 17 - Roll 22: 7 --- Shooter Rolled a 7
+Total Winnings: 57
+Shooter 18 - Roll 1: 8 --- Point set to: 8
+Shooter 18 - Roll 2: 12 --- Push.
+Shooter 18 - Roll 3: 11 --- Push.
+Shooter 18 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 18 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 19 - Roll 1: 4 --- Point set to: 4
+Shooter 19 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 20 - Roll 1: 2 --- No Point Set.
+Shooter 20 - Roll 2: 3 --- No Point Set.
+Shooter 20 - Roll 3: 7 --- No Point Set.
+Shooter 20 - Roll 4: 10 --- Point set to: 10
+Shooter 20 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 20 - Roll 6: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 20 - Roll 7: 5 --- No Win
+Shooter 20 - Roll 8: 10 --- No Win
+Shooter hit the point (10)
+Shooter 20 - Roll 9: 9 --- Point set to: 9
+Shooter 20 - Roll 10: 4 --- No Win
+Shooter 20 - Roll 11: 4 --- No Win
+Shooter 20 - Roll 12: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 20 - Roll 13: 12 --- Push.
+Shooter 20 - Roll 14: 10 --- No Win
+Shooter 20 - Roll 15: 9 --- No Win
+Shooter hit the point (9)
+Shooter 20 - Roll 16: 2 --- No Point Set.
+Shooter 20 - Roll 17: 6 --- Point set to: 6
+Shooter 20 - Roll 18: 2 --- Push.
+Shooter 20 - Roll 19: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 20 - Roll 20: 6 --- Point set to: 6
+Shooter 20 - Roll 21: 7 --- Shooter Rolled a 7
+Total Winnings: -4
+Shooter 21 - Roll 1: 10 --- Point set to: 10
+Shooter 21 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 21 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 22 - Roll 1: 11 --- No Point Set.
+Shooter 22 - Roll 2: 6 --- Point set to: 6
+Shooter 22 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 22 - Roll 4: 4 --- No Win
+Shooter 22 - Roll 5: 9 --- No Win
+Shooter 22 - Roll 6: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 22 - Roll 7: 9 --- Point set to: 9
+Shooter 22 - Roll 8: 9 --- No Win
+Shooter hit the point (9)
+Shooter 22 - Roll 9: 11 --- No Point Set.
+Shooter 22 - Roll 10: 10 --- Point set to: 10
+Shooter 22 - Roll 11: 5 --- No Win
+Shooter 22 - Roll 12: 4 --- No Win
+Shooter 22 - Roll 13: 5 --- No Win
+Shooter 22 - Roll 14: 5 --- No Win
+Shooter 22 - Roll 15: 5 --- No Win
+Shooter 22 - Roll 16: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 22 - Roll 17: 5 --- No Win
+Shooter 22 - Roll 18: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 22 - Roll 19: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 22 - Roll 20: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 22 - Roll 21: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 22 - Roll 22: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 22 - Roll 23: 8 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 22 - Roll 24: 7 --- Shooter Rolled a 7
+Total Winnings: 42
+Shooter 23 - Roll 1: 11 --- No Point Set.
+Shooter 23 - Roll 2: 8 --- Point set to: 8
+Shooter 23 - Roll 3: 10 --- No Win
+Shooter 23 - Roll 4: 5 --- No Win
+Shooter 23 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 23 - Roll 6: 10 --- Point set to: 10
+Shooter 23 - Roll 7: 9 --- No Win
+Shooter 23 - Roll 8: 4 --- No Win
+Shooter 23 - Roll 9: 3 --- Push.
+Shooter 23 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 24 - Roll 1: 4 --- Point set to: 4
+Shooter 24 - Roll 2: 3 --- Push.
+Shooter 24 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 25 - Roll 1: 7 --- No Point Set.
+Shooter 25 - Roll 2: 8 --- Point set to: 8
+Shooter 25 - Roll 3: 5 --- No Win
+Shooter 25 - Roll 4: 9 --- No Win
+Shooter 25 - Roll 5: 12 --- Push.
+Shooter 25 - Roll 6: 9 --- No Win
+Shooter 25 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 25 - Roll 8: 10 --- No Win
+Shooter 25 - Roll 9: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 25 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 26 - Roll 1: 7 --- No Point Set.
+Shooter 26 - Roll 2: 10 --- Point set to: 10
+Shooter 26 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 27 - Roll 1: 9 --- Point set to: 9
+Shooter 27 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 27 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 27 - Roll 4: 6 --- Point set to: 6
+Shooter 27 - Roll 5: 9 --- No Win
+Shooter 27 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 28 - Roll 1: 6 --- Point set to: 6
+Shooter 28 - Roll 2: 4 --- No Win
+Shooter 28 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 28 - Roll 4: 5 --- No Win
+Shooter 28 - Roll 5: 4 --- No Win
+Shooter 28 - Roll 6: 4 --- No Win
+Shooter 28 - Roll 7: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 28 - Roll 8: 5 --- No Win
+Shooter 28 - Roll 9: 4 --- No Win
+Shooter 28 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 29 - Roll 1: 7 --- No Point Set.
+Shooter 29 - Roll 2: 10 --- Point set to: 10
+Shooter 29 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 29 - Roll 4: 11 --- Push.
+Shooter 29 - Roll 5: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 29 - Roll 6: 11 --- Push.
+Shooter 29 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 30 - Roll 1: 10 --- Point set to: 10
+Shooter 30 - Roll 2: 9 --- No Win
+Shooter 30 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 30 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 31 - Roll 1: 6 --- Point set to: 6
+Shooter 31 - Roll 2: 4 --- No Win
+Shooter 31 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 31 - Roll 4: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 31 - Roll 5: 12 --- No Point Set.
+Shooter 31 - Roll 6: 7 --- No Point Set.
+Shooter 31 - Roll 7: 8 --- Point set to: 8
+Shooter 31 - Roll 8: 2 --- Push.
+Shooter 31 - Roll 9: 3 --- Push.
+Shooter 31 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 32 - Roll 1: 10 --- Point set to: 10
+Shooter 32 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 33 - Roll 1: 8 --- Point set to: 8
+Shooter 33 - Roll 2: 5 --- No Win
+Shooter 33 - Roll 3: 4 --- No Win
+Shooter 33 - Roll 4: 9 --- No Win
+Shooter 33 - Roll 5: 2 --- Push.
+Shooter 33 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 34 - Roll 1: 7 --- No Point Set.
+Shooter 34 - Roll 2: 3 --- No Point Set.
+Shooter 34 - Roll 3: 5 --- Point set to: 5
+Shooter 34 - Roll 4: 4 --- No Win
+Shooter 34 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 35 - Roll 1: 7 --- No Point Set.
+Shooter 35 - Roll 2: 2 --- No Point Set.
+Shooter 35 - Roll 3: 3 --- No Point Set.
+Shooter 35 - Roll 4: 9 --- Point set to: 9
+Shooter 35 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 36 - Roll 1: 7 --- No Point Set.
+Shooter 36 - Roll 2: 4 --- Point set to: 4
+Shooter 36 - Roll 3: 5 --- No Win
+Shooter 36 - Roll 4: 4 --- No Win
+Shooter hit the point (4)
+Shooter 36 - Roll 5: 10 --- Point set to: 10
+Shooter 36 - Roll 6: 9 --- No Win
+Shooter 36 - Roll 7: 9 --- No Win
+Shooter 36 - Roll 8: 5 --- No Win
+Shooter 36 - Roll 9: 3 --- Push.
+Shooter 36 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 37 - Roll 1: 7 --- No Point Set.
+Shooter 37 - Roll 2: 7 --- No Point Set.
+Shooter 37 - Roll 3: 9 --- Point set to: 9
+Shooter 37 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 37 - Roll 5: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 37 - Roll 6: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 37 - Roll 7: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 37 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: 34
+Shooter 38 - Roll 1: 8 --- Point set to: 8
+Shooter 38 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 38 - Roll 3: 5 --- No Win
+Shooter 38 - Roll 4: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 38 - Roll 5: 5 --- No Win
+Shooter 38 - Roll 6: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 38 - Roll 7: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 38 - Roll 8: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 38 - Roll 9: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 38 - Roll 10: 9 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter 38 - Roll 11: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 38 - Roll 12: 2 --- No Point Set.
+Shooter 38 - Roll 13: 7 --- No Point Set.
+Shooter 38 - Roll 14: 9 --- Point set to: 9
+Shooter 38 - Roll 15: 11 --- Push.
+Shooter 38 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: 49
+Shooter 39 - Roll 1: 11 --- No Point Set.
+Shooter 39 - Roll 2: 5 --- Point set to: 5
+Shooter 39 - Roll 3: 10 --- No Win
+Shooter 39 - Roll 4: 5 --- No Win
+Shooter hit the point (5)
+Shooter 39 - Roll 5: 4 --- Point set to: 4
+Shooter 39 - Roll 6: 3 --- Push.
+Shooter 39 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 39 - Roll 8: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 39 - Roll 9: 11 --- Push.
+Shooter 39 - Roll 10: 10 --- No Win
+Shooter 39 - Roll 11: 9 --- No Win
+Shooter 39 - Roll 12: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 40 - Roll 1: 6 --- Point set to: 6
+Shooter 40 - Roll 2: 11 --- Push.
+Shooter 40 - Roll 3: 10 --- No Win
+Shooter 40 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 41 - Roll 1: 7 --- No Point Set.
+Shooter 41 - Roll 2: 7 --- No Point Set.
+Shooter 41 - Roll 3: 5 --- Point set to: 5
+Shooter 41 - Roll 4: 10 --- No Win
+Shooter 41 - Roll 5: 4 --- No Win
+Shooter 41 - Roll 6: 11 --- Push.
+Shooter 41 - Roll 7: 9 --- No Win
+Shooter 41 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 42 - Roll 1: 2 --- No Point Set.
+Shooter 42 - Roll 2: 7 --- No Point Set.
+Shooter 42 - Roll 3: 8 --- Point set to: 8
+Shooter 42 - Roll 4: 5 --- No Win
+Shooter 42 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 43 - Roll 1: 5 --- Point set to: 5
+Shooter 43 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 43 - Roll 3: 9 --- No Win
+Shooter 43 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 44 - Roll 1: 4 --- Point set to: 4
+Shooter 44 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 44 - Roll 3: 5 --- No Win
+Shooter 44 - Roll 4: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 44 - Roll 5: 4 --- No Win
+Shooter hit the point (4)
+Shooter 44 - Roll 6: 6 --- Point set to: 6
+Shooter 44 - Roll 7: 4 --- No Win
+Shooter 44 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 44 - Roll 9: 7 --- No Point Set.
+Shooter 44 - Roll 10: 9 --- Point set to: 9
+Shooter 44 - Roll 11: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 44 - Roll 12: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 44 - Roll 13: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 44 - Roll 14: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 44 - Roll 15: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (9)
+Shooter 44 - Roll 16: 3 --- No Point Set.
+Shooter 44 - Roll 17: 6 --- Point set to: 6
+Shooter 44 - Roll 18: 6 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter hit the point (6)
+Shooter 44 - Roll 19: 3 --- No Point Set.
+Shooter 44 - Roll 20: 8 --- Point set to: 8
+Shooter 44 - Roll 21: 11 --- Push.
+Shooter 44 - Roll 22: 6 --- Won 77 on an initial bet of 66 and collected it.
+Shooter 44 - Roll 23: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter hit the point (8)
+Shooter 44 - Roll 24: 3 --- No Point Set.
+Shooter 44 - Roll 25: 5 --- Point set to: 5
+Shooter 44 - Roll 26: 7 --- Shooter Rolled a 7
+Total Winnings: 171
+Shooter 45 - Roll 1: 9 --- Point set to: 9
+Shooter 45 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 45 - Roll 3: 4 --- No Win
+Shooter 45 - Roll 4: 11 --- Push.
+Shooter 45 - Roll 5: 11 --- Push.
+Shooter 45 - Roll 6: 4 --- No Win
+Shooter 45 - Roll 7: 3 --- Push.
+Shooter 45 - Roll 8: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 45 - Roll 9: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 45 - Roll 10: 5 --- No Win
+Shooter 45 - Roll 11: 7 --- Shooter Rolled a 7
+Total Winnings: 3
+Shooter 46 - Roll 1: 6 --- Point set to: 6
+Shooter 46 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 47 - Roll 1: 10 --- Point set to: 10
+Shooter 47 - Roll 2: 9 --- No Win
+Shooter 47 - Roll 3: 10 --- No Win
+Shooter hit the point (10)
+Shooter 47 - Roll 4: 5 --- Point set to: 5
+Shooter 47 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 47 - Roll 6: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 47 - Roll 7: 4 --- No Win
+Shooter 47 - Roll 8: 9 --- No Win
+Shooter 47 - Roll 9: 10 --- No Win
+Shooter 47 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 48 - Roll 1: 8 --- Point set to: 8
+Shooter 48 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 48 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 49 - Roll 1: 10 --- Point set to: 10
+Shooter 49 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 49 - Roll 3: 9 --- No Win
+Shooter 49 - Roll 4: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 49 - Roll 5: 9 --- No Win
+Shooter 49 - Roll 6: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 49 - Roll 7: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 49 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 49 - Roll 9: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 49 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 33
+Shooter 50 - Roll 1: 10 --- Point set to: 10
+Shooter 50 - Roll 2: 5 --- No Win
+Shooter 50 - Roll 3: 11 --- Push.
+Shooter 50 - Roll 4: 10 --- No Win
+Shooter hit the point (10)
+Shooter 50 - Roll 5: 11 --- No Point Set.
+Shooter 50 - Roll 6: 10 --- Point set to: 10
+Shooter 50 - Roll 7: 9 --- No Win
+Shooter 50 - Roll 8: 3 --- Push.
+Shooter 50 - Roll 9: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 50 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 51 - Roll 1: 5 --- Point set to: 5
+Shooter 51 - Roll 2: 9 --- No Win
+Shooter 51 - Roll 3: 10 --- No Win
+Shooter 51 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 51 - Roll 5: 12 --- Push.
+Shooter 51 - Roll 6: 11 --- Push.
+Shooter 51 - Roll 7: 11 --- Push.
+Shooter 51 - Roll 8: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 51 - Roll 9: 4 --- No Win
+Shooter 51 - Roll 10: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 51 - Roll 11: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 51 - Roll 12: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 51 - Roll 13: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (5)
+Shooter 51 - Roll 14: 12 --- No Point Set.
+Shooter 51 - Roll 15: 9 --- Point set to: 9
+Shooter 51 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: 25
+Shooter 52 - Roll 1: 5 --- Point set to: 5
+Shooter 52 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 52 - Roll 3: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 52 - Roll 4: 10 --- No Win
+Shooter 52 - Roll 5: 10 --- No Win
+Shooter 52 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 53 - Roll 1: 7 --- No Point Set.
+Shooter 53 - Roll 2: 2 --- No Point Set.
+Shooter 53 - Roll 3: 10 --- Point set to: 10
+Shooter 53 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 54 - Roll 1: 10 --- Point set to: 10
+Shooter 54 - Roll 2: 4 --- No Win
+Shooter 54 - Roll 3: 10 --- No Win
+Shooter hit the point (10)
+Shooter 54 - Roll 4: 8 --- Point set to: 8
+Shooter 54 - Roll 5: 12 --- Push.
+Shooter 54 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 55 - Roll 1: 6 --- Point set to: 6
+Shooter 55 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 55 - Roll 3: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 55 - Roll 4: 9 --- Point set to: 9
+Shooter 55 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 55 - Roll 6: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 55 - Roll 7: 3 --- Push.
+Shooter 55 - Roll 8: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 55 - Roll 9: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 55 - Roll 10: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 55 - Roll 11: 4 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 55 - Roll 12: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 55 - Roll 13: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 55 - Roll 14: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 55 - Roll 15: 6 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 55 - Roll 16: 11 --- Push.
+Shooter 55 - Roll 17: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 55 - Roll 18: 6 --- Won 77 on an initial bet of 66 and collected it.
+Shooter 55 - Roll 19: 2 --- Push.
+Shooter 55 - Roll 20: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 55 - Roll 21: 7 --- Shooter Rolled a 7
+Total Winnings: 240
+Shooter 56 - Roll 1: 7 --- No Point Set.
+Shooter 56 - Roll 2: 9 --- Point set to: 9
+Shooter 56 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 56 - Roll 4: 2 --- Push.
+Shooter 56 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 57 - Roll 1: 9 --- Point set to: 9
+Shooter 57 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 57 - Roll 3: 11 --- Push.
+Shooter 57 - Roll 4: 10 --- No Win
+Shooter 57 - Roll 5: 4 --- No Win
+Shooter 57 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 58 - Roll 1: 5 --- Point set to: 5
+Shooter 58 - Roll 2: 4 --- No Win
+Shooter 58 - Roll 3: 3 --- Push.
+Shooter 58 - Roll 4: 12 --- Push.
+Shooter 58 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 58 - Roll 6: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 58 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 59 - Roll 1: 8 --- Point set to: 8
+Shooter 59 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 59 - Roll 3: 10 --- No Win
+Shooter 59 - Roll 4: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 59 - Roll 5: 5 --- Point set to: 5
+Shooter 59 - Roll 6: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 59 - Roll 7: 10 --- No Win
+Shooter 59 - Roll 8: 4 --- No Win
+Shooter 59 - Roll 9: 10 --- No Win
+Shooter 59 - Roll 10: 3 --- Push.
+Shooter 59 - Roll 11: 4 --- No Win
+Shooter 59 - Roll 12: 4 --- No Win
+Shooter 59 - Roll 13: 10 --- No Win
+Shooter 59 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+Shooter 60 - Roll 1: 3 --- No Point Set.
+Shooter 60 - Roll 2: 9 --- Point set to: 9
+Shooter 60 - Roll 3: 12 --- Push.
+Shooter 60 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 60 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 61 - Roll 1: 7 --- No Point Set.
+Shooter 61 - Roll 2: 11 --- No Point Set.
+Shooter 61 - Roll 3: 8 --- Point set to: 8
+Shooter 61 - Roll 4: 5 --- No Win
+Shooter 61 - Roll 5: 9 --- No Win
+Shooter 61 - Roll 6: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 61 - Roll 7: 9 --- No Win
+Shooter 61 - Roll 8: 12 --- Push.
+Shooter 61 - Roll 9: 9 --- No Win
+Shooter 61 - Roll 10: 2 --- Push.
+Shooter 61 - Roll 11: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 61 - Roll 12: 10 --- No Win
+Shooter 61 - Roll 13: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 62 - Roll 1: 10 --- Point set to: 10
+Shooter 62 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 63 - Roll 1: 6 --- Point set to: 6
+Shooter 63 - Roll 2: 10 --- No Win
+Shooter 63 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 63 - Roll 4: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 63 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 64 - Roll 1: 6 --- Point set to: 6
+Shooter 64 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 64 - Roll 3: 10 --- Point set to: 10
+Shooter 64 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 65 - Roll 1: 6 --- Point set to: 6
+Shooter 65 - Roll 2: 10 --- No Win
+Shooter 65 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 65 - Roll 4: 11 --- No Point Set.
+Shooter 65 - Roll 5: 11 --- No Point Set.
+Shooter 65 - Roll 6: 6 --- Point set to: 6
+Shooter 65 - Roll 7: 3 --- Push.
+Shooter 65 - Roll 8: 2 --- Push.
+Shooter 65 - Roll 9: 5 --- No Win
+Shooter 65 - Roll 10: 2 --- Push.
+Shooter 65 - Roll 11: 9 --- No Win
+Shooter 65 - Roll 12: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 65 - Roll 13: 12 --- Push.
+Shooter 65 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 66 - Roll 1: 10 --- Point set to: 10
+Shooter 66 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 66 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 67 - Roll 1: 10 --- Point set to: 10
+Shooter 67 - Roll 2: 11 --- Push.
+Shooter 67 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 67 - Roll 4: 4 --- No Win
+Shooter 67 - Roll 5: 2 --- Push.
+Shooter 67 - Roll 6: 11 --- Push.
+Shooter 67 - Roll 7: 4 --- No Win
+Shooter 67 - Roll 8: 5 --- No Win
+Shooter 67 - Roll 9: 9 --- No Win
+Shooter 67 - Roll 10: 4 --- No Win
+Shooter 67 - Roll 11: 5 --- No Win
+Shooter 67 - Roll 12: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 67 - Roll 13: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 67 - Roll 14: 5 --- No Win
+Shooter 67 - Roll 15: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 67 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: -4
+Shooter 68 - Roll 1: 8 --- Point set to: 8
+Shooter 68 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 68 - Roll 3: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 68 - Roll 4: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 68 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 68 - Roll 6: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 68 - Roll 7: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 68 - Roll 8: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 68 - Roll 9: 11 --- Push.
+Shooter 68 - Roll 10: 9 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter 68 - Roll 11: 6 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 68 - Roll 12: 6 --- Won 77 on an initial bet of 66 and collected it.
+Shooter 68 - Roll 13: 11 --- Push.
+Shooter 68 - Roll 14: 9 --- Won 84 on an initial bet of 60 and collected it.
+Shooter 68 - Roll 15: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 68 - Roll 16: 9 --- Won 84 on an initial bet of 60 and pressed to 125.
+Shooter 68 - Roll 17: 7 --- Shooter Rolled a 7
+Total Winnings: 263
+Shooter 69 - Roll 1: 7 --- No Point Set.
+Shooter 69 - Roll 2: 8 --- Point set to: 8
+Shooter 69 - Roll 3: 5 --- No Win
+Shooter 69 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 69 - Roll 5: 11 --- No Point Set.
+Shooter 69 - Roll 6: 4 --- Point set to: 4
+Shooter 69 - Roll 7: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 69 - Roll 8: 4 --- No Win
+Shooter hit the point (4)
+Shooter 69 - Roll 9: 12 --- No Point Set.
+Shooter 69 - Roll 10: 7 --- No Point Set.
+Shooter 69 - Roll 11: 4 --- Point set to: 4
+Shooter 69 - Roll 12: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 69 - Roll 13: 5 --- No Win
+Shooter 69 - Roll 14: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 69 - Roll 15: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 69 - Roll 16: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 69 - Roll 17: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 69 - Roll 18: 11 --- Push.
+Shooter 69 - Roll 19: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (4)
+Shooter 69 - Roll 20: 6 --- Point set to: 6
+Shooter 69 - Roll 21: 7 --- Shooter Rolled a 7
+Total Winnings: 31
+Shooter 70 - Roll 1: 10 --- Point set to: 10
+Shooter 70 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 71 - Roll 1: 7 --- No Point Set.
+Shooter 71 - Roll 2: 7 --- No Point Set.
+Shooter 71 - Roll 3: 8 --- Point set to: 8
+Shooter 71 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 71 - Roll 5: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 71 - Roll 6: 5 --- Point set to: 5
+Shooter 71 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 71 - Roll 8: 9 --- No Win
+Shooter 71 - Roll 9: 5 --- No Win
+Shooter hit the point (5)
+Shooter 71 - Roll 10: 12 --- No Point Set.
+Shooter 71 - Roll 11: 4 --- Point set to: 4
+Shooter 71 - Roll 12: 3 --- Push.
+Shooter 71 - Roll 13: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 71 - Roll 14: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 71 - Roll 15: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 71 - Roll 16: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 71 - Roll 17: 7 --- Shooter Rolled a 7
+Total Winnings: 25
+Shooter 72 - Roll 1: 9 --- Point set to: 9
+Shooter 72 - Roll 2: 5 --- No Win
+Shooter 72 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 73 - Roll 1: 8 --- Point set to: 8
+Shooter 73 - Roll 2: 10 --- No Win
+Shooter 73 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 73 - Roll 4: 7 --- No Point Set.
+Shooter 73 - Roll 5: 3 --- No Point Set.
+Shooter 73 - Roll 6: 12 --- No Point Set.
+Shooter 73 - Roll 7: 4 --- Point set to: 4
+Shooter 73 - Roll 8: 4 --- No Win
+Shooter hit the point (4)
+Shooter 73 - Roll 9: 2 --- No Point Set.
+Shooter 73 - Roll 10: 12 --- No Point Set.
+Shooter 73 - Roll 11: 5 --- Point set to: 5
+Shooter 73 - Roll 12: 2 --- Push.
+Shooter 73 - Roll 13: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 73 - Roll 14: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 73 - Roll 15: 9 --- No Win
+Shooter 73 - Roll 16: 11 --- Push.
+Shooter 73 - Roll 17: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 73 - Roll 18: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 73 - Roll 19: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 73 - Roll 20: 7 --- Shooter Rolled a 7
+Total Winnings: 47
+Shooter 74 - Roll 1: 9 --- Point set to: 9
+Shooter 74 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 75 - Roll 1: 8 --- Point set to: 8
+Shooter 75 - Roll 2: 3 --- Push.
+Shooter 75 - Roll 3: 9 --- No Win
+Shooter 75 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 75 - Roll 5: 6 --- Point set to: 6
+Shooter 75 - Roll 6: 5 --- No Win
+Shooter 75 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 76 - Roll 1: 8 --- Point set to: 8
+Shooter 76 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 76 - Roll 3: 5 --- Point set to: 5
+Shooter 76 - Roll 4: 9 --- No Win
+Shooter 76 - Roll 5: 5 --- No Win
+Shooter hit the point (5)
+Shooter 76 - Roll 6: 9 --- Point set to: 9
+Shooter 76 - Roll 7: 2 --- Push.
+Shooter 76 - Roll 8: 3 --- Push.
+Shooter 76 - Roll 9: 12 --- Push.
+Shooter 76 - Roll 10: 12 --- Push.
+Shooter 76 - Roll 11: 9 --- No Win
+Shooter hit the point (9)
+Shooter 76 - Roll 12: 8 --- Point set to: 8
+Shooter 76 - Roll 13: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 76 - Roll 14: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 76 - Roll 15: 5 --- Point set to: 5
+Shooter 76 - Roll 16: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 76 - Roll 17: 10 --- No Win
+Shooter 76 - Roll 18: 7 --- Shooter Rolled a 7
+Total Winnings: -4
+Shooter 77 - Roll 1: 6 --- Point set to: 6
+Shooter 77 - Roll 2: 10 --- No Win
+Shooter 77 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 78 - Roll 1: 12 --- No Point Set.
+Shooter 78 - Roll 2: 12 --- No Point Set.
+Shooter 78 - Roll 3: 6 --- Point set to: 6
+Shooter 78 - Roll 4: 5 --- No Win
+Shooter 78 - Roll 5: 5 --- No Win
+Shooter 78 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 79 - Roll 1: 10 --- Point set to: 10
+Shooter 79 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 80 - Roll 1: 10 --- Point set to: 10
+Shooter 80 - Roll 2: 12 --- Push.
+Shooter 80 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 80 - Roll 4: 5 --- No Win
+Shooter 80 - Roll 5: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 80 - Roll 6: 4 --- No Win
+Shooter 80 - Roll 7: 5 --- No Win
+Shooter 80 - Roll 8: 10 --- No Win
+Shooter hit the point (10)
+Shooter 80 - Roll 9: 4 --- Point set to: 4
+Shooter 80 - Roll 10: 4 --- No Win
+Shooter hit the point (4)
+Shooter 80 - Roll 11: 8 --- Point set to: 8
+Shooter 80 - Roll 12: 5 --- No Win
+Shooter 80 - Roll 13: 5 --- No Win
+Shooter 80 - Roll 14: 9 --- No Win
+Shooter 80 - Roll 15: 5 --- No Win
+Shooter 80 - Roll 16: 9 --- No Win
+Shooter 80 - Roll 17: 10 --- No Win
+Shooter 80 - Roll 18: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 80 - Roll 19: 5 --- No Win
+Shooter 80 - Roll 20: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 80 - Roll 21: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 80 - Roll 22: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 80 - Roll 23: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 80 - Roll 24: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 80 - Roll 25: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 80 - Roll 26: 3 --- No Point Set.
+Shooter 80 - Roll 27: 11 --- No Point Set.
+Shooter 80 - Roll 28: 10 --- Point set to: 10
+Shooter 80 - Roll 29: 5 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter 80 - Roll 30: 3 --- Push.
+Shooter 80 - Roll 31: 5 --- Won 84 on an initial bet of 60 and collected it.
+Shooter 80 - Roll 32: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 80 - Roll 33: 6 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 80 - Roll 34: 3 --- Push.
+Shooter 80 - Roll 35: 7 --- Shooter Rolled a 7
+Total Winnings: 177
+Shooter 81 - Roll 1: 8 --- Point set to: 8
+Shooter 81 - Roll 2: 4 --- No Win
+Shooter 81 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 82 - Roll 1: 6 --- Point set to: 6
+Shooter 82 - Roll 2: 5 --- No Win
+Shooter 82 - Roll 3: 5 --- No Win
+Shooter 82 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 83 - Roll 1: 9 --- Point set to: 9
+Shooter 83 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 83 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 84 - Roll 1: 8 --- Point set to: 8
+Shooter 84 - Roll 2: 11 --- Push.
+Shooter 84 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 84 - Roll 4: 11 --- No Point Set.
+Shooter 84 - Roll 5: 8 --- Point set to: 8
+Shooter 84 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 85 - Roll 1: 9 --- Point set to: 9
+Shooter 85 - Roll 2: 4 --- No Win
+Shooter 85 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 85 - Roll 4: 10 --- No Win
+Shooter 85 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 86 - Roll 1: 9 --- Point set to: 9
+Shooter 86 - Roll 2: 11 --- Push.
+Shooter 86 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 86 - Roll 4: 8 --- Point set to: 8
+Shooter 86 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 87 - Roll 1: 3 --- No Point Set.
+Shooter 87 - Roll 2: 5 --- Point set to: 5
+Shooter 87 - Roll 3: 9 --- No Win
+Shooter 87 - Roll 4: 3 --- Push.
+Shooter 87 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 87 - Roll 6: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 87 - Roll 7: 3 --- Push.
+Shooter 87 - Roll 8: 4 --- No Win
+Shooter 87 - Roll 9: 5 --- No Win
+Shooter hit the point (5)
+Shooter 87 - Roll 10: 5 --- Point set to: 5
+Shooter 87 - Roll 11: 9 --- No Win
+Shooter 87 - Roll 12: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 87 - Roll 13: 4 --- No Win
+Shooter 87 - Roll 14: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 87 - Roll 15: 5 --- No Win
+Shooter hit the point (5)
+Shooter 87 - Roll 16: 8 --- Point set to: 8
+Shooter 87 - Roll 17: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 87 - Roll 18: 11 --- Push.
+Shooter 87 - Roll 19: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 87 - Roll 20: 9 --- Point set to: 9
+Shooter 87 - Roll 21: 7 --- Shooter Rolled a 7
+Total Winnings: 23
+Shooter 88 - Roll 1: 6 --- Point set to: 6
+Shooter 88 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 88 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 89 - Roll 1: 10 --- Point set to: 10
+Shooter 89 - Roll 2: 3 --- Push.
+Shooter 89 - Roll 3: 3 --- Push.
+Shooter 89 - Roll 4: 9 --- No Win
+Shooter 89 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 89 - Roll 6: 4 --- No Win
+Shooter 89 - Roll 7: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 89 - Roll 8: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 89 - Roll 9: 9 --- No Win
+Shooter 89 - Roll 10: 9 --- No Win
+Shooter 89 - Roll 11: 9 --- No Win
+Shooter 89 - Roll 12: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 89 - Roll 13: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 89 - Roll 14: 3 --- Push.
+Shooter 89 - Roll 15: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 89 - Roll 16: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 89 - Roll 17: 7 --- Shooter Rolled a 7
+Total Winnings: 64
+Shooter 90 - Roll 1: 8 --- Point set to: 8
+Shooter 90 - Roll 2: 4 --- No Win
+Shooter 90 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 91 - Roll 1: 6 --- Point set to: 6
+Shooter 91 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 92 - Roll 1: 9 --- Point set to: 9
+Shooter 92 - Roll 2: 5 --- No Win
+Shooter 92 - Roll 3: 10 --- No Win
+Shooter 92 - Roll 4: 5 --- No Win
+Shooter 92 - Roll 5: 2 --- Push.
+Shooter 92 - Roll 6: 9 --- No Win
+Shooter hit the point (9)
+Shooter 92 - Roll 7: 4 --- Point set to: 4
+Shooter 92 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 92 - Roll 9: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 92 - Roll 10: 10 --- No Win
+Shooter 92 - Roll 11: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 92 - Roll 12: 4 --- No Win
+Shooter hit the point (4)
+Shooter 92 - Roll 13: 7 --- No Point Set.
+Shooter 92 - Roll 14: 9 --- Point set to: 9
+Shooter 92 - Roll 15: 3 --- Push.
+Shooter 92 - Roll 16: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 92 - Roll 17: 7 --- Shooter Rolled a 7
+Total Winnings: -4
+Shooter 93 - Roll 1: 11 --- No Point Set.
+Shooter 93 - Roll 2: 7 --- No Point Set.
+Shooter 93 - Roll 3: 6 --- Point set to: 6
+Shooter 93 - Roll 4: 4 --- No Win
+Shooter 93 - Roll 5: 9 --- No Win
+Shooter 93 - Roll 6: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 93 - Roll 7: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 93 - Roll 8: 12 --- No Point Set.
+Shooter 93 - Roll 9: 2 --- No Point Set.
+Shooter 93 - Roll 10: 2 --- No Point Set.
+Shooter 93 - Roll 11: 7 --- No Point Set.
+Shooter 93 - Roll 12: 7 --- No Point Set.
+Shooter 93 - Roll 13: 5 --- Point set to: 5
+Shooter 93 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 94 - Roll 1: 4 --- Point set to: 4
+Shooter 94 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 94 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 95 - Roll 1: 7 --- No Point Set.
+Shooter 95 - Roll 2: 8 --- Point set to: 8
+Shooter 95 - Roll 3: 10 --- No Win
+Shooter 95 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 95 - Roll 5: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 95 - Roll 6: 5 --- Point set to: 5
+Shooter 95 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 95 - Roll 8: 9 --- No Win
+Shooter 95 - Roll 9: 11 --- Push.
+Shooter 95 - Roll 10: 9 --- No Win
+Shooter 95 - Roll 11: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+Shooter 96 - Roll 1: 9 --- Point set to: 9
+Shooter 96 - Roll 2: 12 --- Push.
+Shooter 96 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 97 - Roll 1: 7 --- No Point Set.
+Shooter 97 - Roll 2: 10 --- Point set to: 10
+Shooter 97 - Roll 3: 10 --- No Win
+Shooter hit the point (10)
+Shooter 97 - Roll 4: 7 --- No Point Set.
+Shooter 97 - Roll 5: 7 --- No Point Set.
+Shooter 97 - Roll 6: 8 --- Point set to: 8
+Shooter 97 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 97 - Roll 8: 11 --- Push.
+Shooter 97 - Roll 9: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 97 - Roll 10: 8 --- Point set to: 8
+Shooter 97 - Roll 11: 12 --- Push.
+Shooter 97 - Roll 12: 5 --- No Win
+Shooter 97 - Roll 13: 9 --- No Win
+Shooter 97 - Roll 14: 5 --- No Win
+Shooter 97 - Roll 15: 2 --- Push.
+Shooter 97 - Roll 16: 2 --- Push.
+Shooter 97 - Roll 17: 3 --- Push.
+Shooter 97 - Roll 18: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 97 - Roll 19: 7 --- No Point Set.
+Shooter 97 - Roll 20: 11 --- No Point Set.
+Shooter 97 - Roll 21: 9 --- Point set to: 9
+Shooter 97 - Roll 22: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 97 - Roll 23: 3 --- Push.
+Shooter 97 - Roll 24: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 97 - Roll 25: 11 --- Push.
+Shooter 97 - Roll 26: 7 --- Shooter Rolled a 7
+Total Winnings: 9
+Shooter 98 - Roll 1: 4 --- Point set to: 4
+Shooter 98 - Roll 2: 4 --- No Win
+Shooter hit the point (4)
+Shooter 98 - Roll 3: 11 --- No Point Set.
+Shooter 98 - Roll 4: 6 --- Point set to: 6
+Shooter 98 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 98 - Roll 6: 3 --- Push.
+Shooter 98 - Roll 7: 5 --- No Win
+Shooter 98 - Roll 8: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 98 - Roll 9: 8 --- Point set to: 8
+Shooter 98 - Roll 10: 5 --- No Win
+Shooter 98 - Roll 11: 12 --- Push.
+Shooter 98 - Roll 12: 11 --- Push.
+Shooter 98 - Roll 13: 9 --- No Win
+Shooter 98 - Roll 14: 3 --- Push.
+Shooter 98 - Roll 15: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 98 - Roll 16: 10 --- No Win
+Shooter 98 - Roll 17: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 98 - Roll 18: 7 --- No Point Set.
+Shooter 98 - Roll 19: 6 --- Point set to: 6
+Shooter 98 - Roll 20: 4 --- No Win
+Shooter 98 - Roll 21: 10 --- No Win
+Shooter 98 - Roll 22: 7 --- Shooter Rolled a 7
+Total Winnings: -4
+Shooter 99 - Roll 1: 8 --- Point set to: 8
+Shooter 99 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 99 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 100 - Roll 1: 5 --- Point set to: 5
+Shooter 100 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 100 - Roll 3: 12 --- Push.
+Shooter 100 - Roll 4: 4 --- No Win
+Shooter 100 - Roll 5: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 100 - Roll 6: 9 --- No Win
+Shooter 100 - Roll 7: 10 --- No Win
+Shooter 100 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 100 - Roll 9: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 100 - Roll 10: 4 --- No Win
+Shooter 100 - Roll 11: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 100 - Roll 12: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (5)
+Shooter 100 - Roll 13: 2 --- No Point Set.
+Shooter 100 - Roll 14: 8 --- Point set to: 8
+Shooter 100 - Roll 15: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 100 - Roll 16: 11 --- Push.
+Shooter 100 - Roll 17: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 100 - Roll 18: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 100 - Roll 19: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 100 - Roll 20: 2 --- No Point Set.
+Shooter 100 - Roll 21: 7 --- No Point Set.
+Shooter 100 - Roll 22: 6 --- Point set to: 6
+Shooter 100 - Roll 23: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 100 - Roll 24: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 100 - Roll 25: 7 --- Shooter Rolled a 7
+Total Winnings: 90
+Shooter 101 - Roll 1: 9 --- Point set to: 9
+Shooter 101 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 101 - Roll 3: 10 --- No Win
+Shooter 101 - Roll 4: 9 --- No Win
+Shooter hit the point (9)
+Shooter 101 - Roll 5: 4 --- Point set to: 4
+Shooter 101 - Roll 6: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 101 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 101 - Roll 8: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 101 - Roll 9: 11 --- Push.
+Shooter 101 - Roll 10: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 101 - Roll 11: 2 --- Push.
+Shooter 101 - Roll 12: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 101 - Roll 13: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (4)
+Shooter 101 - Roll 14: 5 --- Point set to: 5
+Shooter 101 - Roll 15: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (5)
+Shooter 101 - Roll 16: 6 --- Point set to: 6
+Shooter 101 - Roll 17: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter hit the point (6)
+Shooter 101 - Roll 18: 9 --- Point set to: 9
+Shooter 101 - Roll 19: 12 --- Push.
+Shooter 101 - Roll 20: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (9)
+Shooter 101 - Roll 21: 7 --- No Point Set.
+Shooter 101 - Roll 22: 8 --- Point set to: 8
+Shooter 101 - Roll 23: 6 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 101 - Roll 24: 6 --- Won 77 on an initial bet of 66 and collected it.
+Shooter 101 - Roll 25: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 101 - Roll 26: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 101 - Roll 27: 9 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter 101 - Roll 28: 10 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 101 - Roll 29: 9 --- Won 84 on an initial bet of 60 and collected it.
+Shooter 101 - Roll 30: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 101 - Roll 31: 12 --- No Point Set.
+Shooter 101 - Roll 32: 6 --- Point set to: 6
+Shooter 101 - Roll 33: 11 --- Push.
+Shooter 101 - Roll 34: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 101 - Roll 35: 8 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 101 - Roll 36: 6 --- Won 77 on an initial bet of 66 and pressed to 150.
+Shooter hit the point (6)
+Shooter 101 - Roll 37: 2 --- No Point Set.
+Shooter 101 - Roll 38: 7 --- No Point Set.
+Shooter 101 - Roll 39: 6 --- Point set to: 6
+Shooter 101 - Roll 40: 5 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter 101 - Roll 41: 8 --- Won 77 on an initial bet of 66 and collected it.
+Shooter 101 - Roll 42: 8 --- Won 77 on an initial bet of 66 and pressed to 150.
+Shooter 101 - Roll 43: 6 --- Won 175 on an initial bet of 150 and collected it.
+Shooter hit the point (6)
+Shooter 101 - Roll 44: 7 --- No Point Set.
+Shooter 101 - Roll 45: 10 --- Point set to: 10
+Shooter 101 - Roll 46: 3 --- Push.
+Shooter 101 - Roll 47: 3 --- Push.
+Shooter 101 - Roll 48: 7 --- Shooter Rolled a 7
+Total Winnings: 616
+Shooter 102 - Roll 1: 8 --- Point set to: 8
+Shooter 102 - Roll 2: 2 --- Push.
+Shooter 102 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 103 - Roll 1: 4 --- Point set to: 4
+Shooter 103 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 103 - Roll 3: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 103 - Roll 4: 4 --- No Win
+Shooter hit the point (4)
+Shooter 103 - Roll 5: 6 --- Point set to: 6
+Shooter 103 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 104 - Roll 1: 7 --- No Point Set.
+Shooter 104 - Roll 2: 9 --- Point set to: 9
+Shooter 104 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 105 - Roll 1: 7 --- No Point Set.
+Shooter 105 - Roll 2: 12 --- No Point Set.
+Shooter 105 - Roll 3: 7 --- No Point Set.
+Shooter 105 - Roll 4: 8 --- Point set to: 8
+Shooter 105 - Roll 5: 3 --- Push.
+Shooter 105 - Roll 6: 9 --- No Win
+Shooter 105 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 105 - Roll 8: 4 --- No Win
+Shooter 105 - Roll 9: 11 --- Push.
+Shooter 105 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 106 - Roll 1: 2 --- No Point Set.
+Shooter 106 - Roll 2: 3 --- No Point Set.
+Shooter 106 - Roll 3: 6 --- Point set to: 6
+Shooter 106 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 106 - Roll 5: 10 --- No Win
+Shooter 106 - Roll 6: 5 --- No Win
+Shooter 106 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 107 - Roll 1: 11 --- No Point Set.
+Shooter 107 - Roll 2: 9 --- Point set to: 9
+Shooter 107 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 107 - Roll 4: 10 --- No Win
+Shooter 107 - Roll 5: 11 --- Push.
+Shooter 107 - Roll 6: 11 --- Push.
+Shooter 107 - Roll 7: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 107 - Roll 8: 3 --- Push.
+Shooter 107 - Roll 9: 9 --- No Win
+Shooter hit the point (9)
+Shooter 107 - Roll 10: 4 --- Point set to: 4
+Shooter 107 - Roll 11: 9 --- No Win
+Shooter 107 - Roll 12: 4 --- No Win
+Shooter hit the point (4)
+Shooter 107 - Roll 13: 9 --- Point set to: 9
+Shooter 107 - Roll 14: 3 --- Push.
+Shooter 107 - Roll 15: 10 --- No Win
+Shooter 107 - Roll 16: 5 --- No Win
+Shooter 107 - Roll 17: 2 --- Push.
+Shooter 107 - Roll 18: 5 --- No Win
+Shooter 107 - Roll 19: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 108 - Roll 1: 9 --- Point set to: 9
+Shooter 108 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 108 - Roll 3: 12 --- Push.
+Shooter 108 - Roll 4: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 108 - Roll 5: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 108 - Roll 6: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (9)
+Shooter 108 - Roll 7: 5 --- Point set to: 5
+Shooter 108 - Roll 8: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (5)
+Shooter 108 - Roll 9: 5 --- Point set to: 5
+Shooter 108 - Roll 10: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 108 - Roll 11: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 108 - Roll 12: 3 --- Push.
+Shooter 108 - Roll 13: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 108 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: 20
+Shooter 109 - Roll 1: 8 --- Point set to: 8
+Shooter 109 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 109 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 110 - Roll 1: 6 --- Point set to: 6
+Shooter 110 - Roll 2: 11 --- Push.
+Shooter 110 - Roll 3: 5 --- No Win
+Shooter 110 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 110 - Roll 5: 10 --- Point set to: 10
+Shooter 110 - Roll 6: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 110 - Roll 7: 5 --- No Win
+Shooter 110 - Roll 8: 4 --- No Win
+Shooter 110 - Roll 9: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 110 - Roll 10: 10 --- No Win
+Shooter hit the point (10)
+Shooter 110 - Roll 11: 10 --- Point set to: 10
+Shooter 110 - Roll 12: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+Shooter 111 - Roll 1: 7 --- No Point Set.
+Shooter 111 - Roll 2: 6 --- Point set to: 6
+Shooter 111 - Roll 3: 9 --- No Win
+Shooter 111 - Roll 4: 10 --- No Win
+Shooter 111 - Roll 5: 5 --- No Win
+Shooter 111 - Roll 6: 5 --- No Win
+Shooter 111 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 111 - Roll 8: 8 --- Point set to: 8
+Shooter 111 - Roll 9: 4 --- No Win
+Shooter 111 - Roll 10: 10 --- No Win
+Shooter 111 - Roll 11: 9 --- No Win
+Shooter 111 - Roll 12: 10 --- No Win
+Shooter 111 - Roll 13: 5 --- No Win
+Shooter 111 - Roll 14: 10 --- No Win
+Shooter 111 - Roll 15: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 111 - Roll 16: 7 --- No Point Set.
+Shooter 111 - Roll 17: 6 --- Point set to: 6
+Shooter 111 - Roll 18: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 111 - Roll 19: 9 --- No Win
+Shooter 111 - Roll 20: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+Shooter 112 - Roll 1: 2 --- No Point Set.
+Shooter 112 - Roll 2: 8 --- Point set to: 8
+Shooter 112 - Roll 3: 3 --- Push.
+Shooter 112 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 113 - Roll 1: 5 --- Point set to: 5
+Shooter 113 - Roll 2: 9 --- No Win
+Shooter 113 - Roll 3: 5 --- No Win
+Shooter hit the point (5)
+Shooter 113 - Roll 4: 7 --- No Point Set.
+Shooter 113 - Roll 5: 7 --- No Point Set.
+Shooter 113 - Roll 6: 7 --- No Point Set.
+Shooter 113 - Roll 7: 4 --- Point set to: 4
+Shooter 113 - Roll 8: 5 --- No Win
+Shooter 113 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 114 - Roll 1: 7 --- No Point Set.
+Shooter 114 - Roll 2: 5 --- Point set to: 5
+Shooter 114 - Roll 3: 3 --- Push.
+Shooter 114 - Roll 4: 10 --- No Win
+Shooter 114 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 114 - Roll 6: 3 --- Push.
+Shooter 114 - Roll 7: 5 --- No Win
+Shooter hit the point (5)
+Shooter 114 - Roll 8: 8 --- Point set to: 8
+Shooter 114 - Roll 9: 9 --- No Win
+Shooter 114 - Roll 10: 3 --- Push.
+Shooter 114 - Roll 11: 10 --- No Win
+Shooter 114 - Roll 12: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 115 - Roll 1: 5 --- Point set to: 5
+Shooter 115 - Roll 2: 11 --- Push.
+Shooter 115 - Roll 3: 2 --- Push.
+Shooter 115 - Roll 4: 4 --- No Win
+Shooter 115 - Roll 5: 5 --- No Win
+Shooter hit the point (5)
+Shooter 115 - Roll 6: 7 --- No Point Set.
+Shooter 115 - Roll 7: 11 --- No Point Set.
+Shooter 115 - Roll 8: 5 --- Point set to: 5
+Shooter 115 - Roll 9: 9 --- No Win
+Shooter 115 - Roll 10: 9 --- No Win
+Shooter 115 - Roll 11: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 115 - Roll 12: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 115 - Roll 13: 10 --- No Win
+Shooter 115 - Roll 14: 11 --- Push.
+Shooter 115 - Roll 15: 2 --- Push.
+Shooter 115 - Roll 16: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 115 - Roll 17: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 115 - Roll 18: 10 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 115 - Roll 19: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 115 - Roll 20: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 115 - Roll 21: 7 --- Shooter Rolled a 7
+Total Winnings: 67
+Shooter 116 - Roll 1: 5 --- Point set to: 5
+Shooter 116 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 117 - Roll 1: 12 --- No Point Set.
+Shooter 117 - Roll 2: 8 --- Point set to: 8
+Shooter 117 - Roll 3: 12 --- Push.
+Shooter 117 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 117 - Roll 5: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 117 - Roll 6: 5 --- No Win
+Shooter 117 - Roll 7: 10 --- No Win
+Shooter 117 - Roll 8: 5 --- No Win
+Shooter 117 - Roll 9: 10 --- No Win
+Shooter 117 - Roll 10: 10 --- No Win
+Shooter 117 - Roll 11: 4 --- No Win
+Shooter 117 - Roll 12: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 117 - Roll 13: 11 --- No Point Set.
+Shooter 117 - Roll 14: 5 --- Point set to: 5
+Shooter 117 - Roll 15: 3 --- Push.
+Shooter 117 - Roll 16: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 117 - Roll 17: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 117 - Roll 18: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 117 - Roll 19: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 117 - Roll 20: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 117 - Roll 21: 7 --- Shooter Rolled a 7
+Total Winnings: 71
+Shooter 118 - Roll 1: 6 --- Point set to: 6
+Shooter 118 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 118 - Roll 3: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 118 - Roll 4: 3 --- No Point Set.
+Shooter 118 - Roll 5: 7 --- No Point Set.
+Shooter 118 - Roll 6: 7 --- No Point Set.
+Shooter 118 - Roll 7: 7 --- No Point Set.
+Shooter 118 - Roll 8: 6 --- Point set to: 6
+Shooter 118 - Roll 9: 9 --- No Win
+Shooter 118 - Roll 10: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 118 - Roll 11: 2 --- Push.
+Shooter 118 - Roll 12: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 118 - Roll 13: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 118 - Roll 14: 4 --- Point set to: 4
+Shooter 118 - Roll 15: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 118 - Roll 16: 11 --- Push.
+Shooter 118 - Roll 17: 3 --- Push.
+Shooter 118 - Roll 18: 7 --- Shooter Rolled a 7
+Total Winnings: 5
+Shooter 119 - Roll 1: 4 --- Point set to: 4
+Shooter 119 - Roll 2: 4 --- No Win
+Shooter hit the point (4)
+Shooter 119 - Roll 3: 8 --- Point set to: 8
+Shooter 119 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 119 - Roll 5: 2 --- Push.
+Shooter 119 - Roll 6: 9 --- No Win
+Shooter 119 - Roll 7: 5 --- No Win
+Shooter 119 - Roll 8: 4 --- No Win
+Shooter 119 - Roll 9: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 119 - Roll 10: 10 --- No Win
+Shooter 119 - Roll 11: 10 --- No Win
+Shooter 119 - Roll 12: 4 --- No Win
+Shooter 119 - Roll 13: 3 --- Push.
+Shooter 119 - Roll 14: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 119 - Roll 15: 10 --- Point set to: 10
+Shooter 119 - Roll 16: 9 --- No Win
+Shooter 119 - Roll 17: 7 --- Shooter Rolled a 7
+Total Winnings: 3
+Shooter 120 - Roll 1: 7 --- No Point Set.
+Shooter 120 - Roll 2: 6 --- Point set to: 6
+Shooter 120 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 120 - Roll 4: 5 --- Point set to: 5
+Shooter 120 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 121 - Roll 1: 8 --- Point set to: 8
+Shooter 121 - Roll 2: 3 --- Push.
+Shooter 121 - Roll 3: 4 --- No Win
+Shooter 121 - Roll 4: 5 --- No Win
+Shooter 121 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 121 - Roll 6: 4 --- No Win
+Shooter 121 - Roll 7: 9 --- No Win
+Shooter 121 - Roll 8: 11 --- Push.
+Shooter 121 - Roll 9: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 121 - Roll 10: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 121 - Roll 11: 5 --- Point set to: 5
+Shooter 121 - Roll 12: 5 --- No Win
+Shooter hit the point (5)
+Shooter 121 - Roll 13: 5 --- Point set to: 5
+Shooter 121 - Roll 14: 9 --- No Win
+Shooter 121 - Roll 15: 9 --- No Win
+Shooter 121 - Roll 16: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 121 - Roll 17: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 121 - Roll 18: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 121 - Roll 19: 7 --- Shooter Rolled a 7
+Total Winnings: 36
+Shooter 122 - Roll 1: 2 --- No Point Set.
+Shooter 122 - Roll 2: 4 --- Point set to: 4
+Shooter 122 - Roll 3: 5 --- No Win
+Shooter 122 - Roll 4: 10 --- No Win
+Shooter 122 - Roll 5: 2 --- Push.
+Shooter 122 - Roll 6: 10 --- No Win
+Shooter 122 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 123 - Roll 1: 3 --- No Point Set.
+Shooter 123 - Roll 2: 10 --- Point set to: 10
+Shooter 123 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 124 - Roll 1: 6 --- Point set to: 6
+Shooter 124 - Roll 2: 10 --- No Win
+Shooter 124 - Roll 3: 10 --- No Win
+Shooter 124 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 124 - Roll 5: 10 --- No Win
+Shooter 124 - Roll 6: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 124 - Roll 7: 11 --- No Point Set.
+Shooter 124 - Roll 8: 10 --- Point set to: 10
+Shooter 124 - Roll 9: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 124 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+Shooter 125 - Roll 1: 8 --- Point set to: 8
+Shooter 125 - Roll 2: 10 --- No Win
+Shooter 125 - Roll 3: 2 --- Push.
+Shooter 125 - Roll 4: 11 --- Push.
+Shooter 125 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 125 - Roll 6: 10 --- No Win
+Shooter 125 - Roll 7: 9 --- No Win
+Shooter 125 - Roll 8: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 125 - Roll 9: 9 --- No Win
+Shooter 125 - Roll 10: 9 --- No Win
+Shooter 125 - Roll 11: 11 --- Push.
+Shooter 125 - Roll 12: 10 --- No Win
+Shooter 125 - Roll 13: 5 --- No Win
+Shooter 125 - Roll 14: 9 --- No Win
+Shooter 125 - Roll 15: 10 --- No Win
+Shooter 125 - Roll 16: 4 --- No Win
+Shooter 125 - Roll 17: 10 --- No Win
+Shooter 125 - Roll 18: 5 --- No Win
+Shooter 125 - Roll 19: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 126 - Roll 1: 9 --- Point set to: 9
+Shooter 126 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 126 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 126 - Roll 4: 9 --- Point set to: 9
+Shooter 126 - Roll 5: 4 --- No Win
+Shooter 126 - Roll 6: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 126 - Roll 7: 4 --- No Win
+Shooter 126 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 127 - Roll 1: 9 --- Point set to: 9
+Shooter 127 - Roll 2: 9 --- No Win
+Shooter hit the point (9)
+Shooter 127 - Roll 3: 12 --- No Point Set.
+Shooter 127 - Roll 4: 7 --- No Point Set.
+Shooter 127 - Roll 5: 7 --- No Point Set.
+Shooter 127 - Roll 6: 8 --- Point set to: 8
+Shooter 127 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 128 - Roll 1: 8 --- Point set to: 8
+Shooter 128 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 129 - Roll 1: 10 --- Point set to: 10
+Shooter 129 - Roll 2: 11 --- Push.
+Shooter 129 - Roll 3: 4 --- No Win
+Shooter 129 - Roll 4: 5 --- No Win
+Shooter 129 - Roll 5: 12 --- Push.
+Shooter 129 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 130 - Roll 1: 3 --- No Point Set.
+Shooter 130 - Roll 2: 6 --- Point set to: 6
+Shooter 130 - Roll 3: 4 --- No Win
+Shooter 130 - Roll 4: 9 --- No Win
+Shooter 130 - Roll 5: 3 --- Push.
+Shooter 130 - Roll 6: 4 --- No Win
+Shooter 130 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 131 - Roll 1: 8 --- Point set to: 8
+Shooter 131 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 131 - Roll 3: 4 --- No Win
+Shooter 131 - Roll 4: 3 --- Push.
+Shooter 131 - Roll 5: 5 --- No Win
+Shooter 131 - Roll 6: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 131 - Roll 7: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 131 - Roll 8: 3 --- Push.
+Shooter 131 - Roll 9: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 131 - Roll 10: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 131 - Roll 11: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 131 - Roll 12: 2 --- Push.
+Shooter 131 - Roll 13: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 131 - Roll 14: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 131 - Roll 15: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 131 - Roll 16: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 131 - Roll 17: 3 --- Push.
+Shooter 131 - Roll 18: 3 --- Push.
+Shooter 131 - Roll 19: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 131 - Roll 20: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 131 - Roll 21: 5 --- Point set to: 5
+Shooter 131 - Roll 22: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 131 - Roll 23: 3 --- Push.
+Shooter 131 - Roll 24: 5 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter hit the point (5)
+Shooter 131 - Roll 25: 7 --- No Point Set.
+Shooter 131 - Roll 26: 5 --- Point set to: 5
+Shooter 131 - Roll 27: 3 --- Push.
+Shooter 131 - Roll 28: 8 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 131 - Roll 29: 5 --- Won 84 on an initial bet of 60 and collected it.
+Shooter hit the point (5)
+Shooter 131 - Roll 30: 8 --- Point set to: 8
+Shooter 131 - Roll 31: 10 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 131 - Roll 32: 11 --- Push.
+Shooter 131 - Roll 33: 8 --- Won 77 on an initial bet of 66 and collected it.
+Shooter hit the point (8)
+Shooter 131 - Roll 34: 5 --- Point set to: 5
+Shooter 131 - Roll 35: 10 --- Won 49 on an initial bet of 25 and pressed to 75.
+Shooter 131 - Roll 36: 7 --- Shooter Rolled a 7
+Total Winnings: 364
+Shooter 132 - Roll 1: 8 --- Point set to: 8
+Shooter 132 - Roll 2: 5 --- No Win
+Shooter 132 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 133 - Roll 1: 7 --- No Point Set.
+Shooter 133 - Roll 2: 6 --- Point set to: 6
+Shooter 133 - Roll 3: 3 --- Push.
+Shooter 133 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 133 - Roll 5: 9 --- No Win
+Shooter 133 - Roll 6: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 133 - Roll 7: 8 --- Point set to: 8
+Shooter 133 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 133 - Roll 9: 2 --- Push.
+Shooter 133 - Roll 10: 4 --- No Win
+Shooter 133 - Roll 11: 2 --- Push.
+Shooter 133 - Roll 12: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 133 - Roll 13: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 133 - Roll 14: 5 --- Point set to: 5
+Shooter 133 - Roll 15: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 133 - Roll 16: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (5)
+Shooter 133 - Roll 17: 7 --- No Point Set.
+Shooter 133 - Roll 18: 9 --- Point set to: 9
+Shooter 133 - Roll 19: 7 --- Shooter Rolled a 7
+Total Winnings: 4
+Shooter 134 - Roll 1: 10 --- Point set to: 10
+Shooter 134 - Roll 2: 11 --- Push.
+Shooter 134 - Roll 3: 4 --- No Win
+Shooter 134 - Roll 4: 12 --- Push.
+Shooter 134 - Roll 5: 5 --- No Win
+Shooter 134 - Roll 6: 4 --- No Win
+Shooter 134 - Roll 7: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 134 - Roll 8: 9 --- No Win
+Shooter 134 - Roll 9: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 134 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 135 - Roll 1: 7 --- No Point Set.
+Shooter 135 - Roll 2: 4 --- Point set to: 4
+Shooter 135 - Roll 3: 10 --- No Win
+Shooter 135 - Roll 4: 10 --- No Win
+Shooter 135 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 135 - Roll 6: 9 --- No Win
+Shooter 135 - Roll 7: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 135 - Roll 8: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 135 - Roll 9: 11 --- Push.
+Shooter 135 - Roll 10: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 135 - Roll 11: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 135 - Roll 12: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 135 - Roll 13: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 135 - Roll 14: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 135 - Roll 15: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 135 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: 59
+Shooter 136 - Roll 1: 11 --- No Point Set.
+Shooter 136 - Roll 2: 4 --- Point set to: 4
+Shooter 136 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 136 - Roll 4: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 136 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 136 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: 3
+Shooter 137 - Roll 1: 6 --- Point set to: 6
+Shooter 137 - Roll 2: 5 --- No Win
+Shooter 137 - Roll 3: 11 --- Push.
+Shooter 137 - Roll 4: 3 --- Push.
+Shooter 137 - Roll 5: 9 --- No Win
+Shooter 137 - Roll 6: 4 --- No Win
+Shooter 137 - Roll 7: 5 --- No Win
+Shooter 137 - Roll 8: 5 --- No Win
+Shooter 137 - Roll 9: 11 --- Push.
+Shooter 137 - Roll 10: 10 --- No Win
+Shooter 137 - Roll 11: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 138 - Roll 1: 9 --- Point set to: 9
+Shooter 138 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 138 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 138 - Roll 4: 2 --- No Point Set.
+Shooter 138 - Roll 5: 3 --- No Point Set.
+Shooter 138 - Roll 6: 6 --- Point set to: 6
+Shooter 138 - Roll 7: 10 --- No Win
+Shooter 138 - Roll 8: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 138 - Roll 9: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 138 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+Shooter 139 - Roll 1: 7 --- No Point Set.
+Shooter 139 - Roll 2: 7 --- No Point Set.
+Shooter 139 - Roll 3: 6 --- Point set to: 6
+Shooter 139 - Roll 4: 9 --- No Win
+Shooter 139 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 140 - Roll 1: 7 --- No Point Set.
+Shooter 140 - Roll 2: 10 --- Point set to: 10
+Shooter 140 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 140 - Roll 4: 12 --- Push.
+Shooter 140 - Roll 5: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 140 - Roll 6: 11 --- Push.
+Shooter 140 - Roll 7: 9 --- No Win
+Shooter 140 - Roll 8: 9 --- No Win
+Shooter 140 - Roll 9: 10 --- No Win
+Shooter hit the point (10)
+Shooter 140 - Roll 10: 5 --- Point set to: 5
+Shooter 140 - Roll 11: 9 --- No Win
+Shooter 140 - Roll 12: 11 --- Push.
+Shooter 140 - Roll 13: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 140 - Roll 14: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 140 - Roll 15: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 140 - Roll 16: 12 --- Push.
+Shooter 140 - Roll 17: 3 --- Push.
+Shooter 140 - Roll 18: 12 --- Push.
+Shooter 140 - Roll 19: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 140 - Roll 20: 7 --- Shooter Rolled a 7
+Total Winnings: 11
+Shooter 141 - Roll 1: 8 --- Point set to: 8
+Shooter 141 - Roll 2: 9 --- No Win
+Shooter 141 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 141 - Roll 4: 9 --- No Win
+Shooter 141 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 142 - Roll 1: 2 --- No Point Set.
+Shooter 142 - Roll 2: 11 --- No Point Set.
+Shooter 142 - Roll 3: 7 --- No Point Set.
+Shooter 142 - Roll 4: 8 --- Point set to: 8
+Shooter 142 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 142 - Roll 6: 10 --- No Win
+Shooter 142 - Roll 7: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 142 - Roll 8: 5 --- Point set to: 5
+Shooter 142 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 143 - Roll 1: 8 --- Point set to: 8
+Shooter 143 - Roll 2: 2 --- Push.
+Shooter 143 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 144 - Roll 1: 7 --- No Point Set.
+Shooter 144 - Roll 2: 4 --- Point set to: 4
+Shooter 144 - Roll 3: 3 --- Push.
+Shooter 144 - Roll 4: 9 --- No Win
+Shooter 144 - Roll 5: 10 --- No Win
+Shooter 144 - Roll 6: 5 --- No Win
+Shooter 144 - Roll 7: 9 --- No Win
+Shooter 144 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 145 - Roll 1: 11 --- No Point Set.
+Shooter 145 - Roll 2: 8 --- Point set to: 8
+Shooter 145 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 145 - Roll 4: 5 --- Point set to: 5
+Shooter 145 - Roll 5: 9 --- No Win
+Shooter 145 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 146 - Roll 1: 8 --- Point set to: 8
+Shooter 146 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 146 - Roll 3: 12 --- No Point Set.
+Shooter 146 - Roll 4: 5 --- Point set to: 5
+Shooter 146 - Roll 5: 5 --- No Win
+Shooter hit the point (5)
+Shooter 146 - Roll 6: 10 --- Point set to: 10
+Shooter 146 - Roll 7: 11 --- Push.
+Shooter 146 - Roll 8: 10 --- No Win
+Shooter hit the point (10)
+Shooter 146 - Roll 9: 8 --- Point set to: 8
+Shooter 146 - Roll 10: 4 --- No Win
+Shooter 146 - Roll 11: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 146 - Roll 12: 4 --- No Win
+Shooter 146 - Roll 13: 5 --- No Win
+Shooter 146 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 147 - Roll 1: 4 --- Point set to: 4
+Shooter 147 - Roll 2: 9 --- No Win
+Shooter 147 - Roll 3: 4 --- No Win
+Shooter hit the point (4)
+Shooter 147 - Roll 4: 3 --- No Point Set.
+Shooter 147 - Roll 5: 12 --- No Point Set.
+Shooter 147 - Roll 6: 7 --- No Point Set.
+Shooter 147 - Roll 7: 8 --- Point set to: 8
+Shooter 147 - Roll 8: 3 --- Push.
+Shooter 147 - Roll 9: 9 --- No Win
+Shooter 147 - Roll 10: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 147 - Roll 11: 9 --- No Win
+Shooter 147 - Roll 12: 10 --- No Win
+Shooter 147 - Roll 13: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 147 - Roll 14: 3 --- Push.
+Shooter 147 - Roll 15: 10 --- No Win
+Shooter 147 - Roll 16: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 147 - Roll 17: 7 --- No Point Set.
+Shooter 147 - Roll 18: 6 --- Point set to: 6
+Shooter 147 - Roll 19: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 147 - Roll 20: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 147 - Roll 21: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 147 - Roll 22: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 147 - Roll 23: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 147 - Roll 24: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 147 - Roll 25: 4 --- Point set to: 4
+Shooter 147 - Roll 26: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 147 - Roll 27: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 147 - Roll 28: 7 --- Shooter Rolled a 7
+Total Winnings: 104
+Shooter 148 - Roll 1: 7 --- No Point Set.
+Shooter 148 - Roll 2: 8 --- Point set to: 8
+Shooter 148 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 149 - Roll 1: 5 --- Point set to: 5
+Shooter 149 - Roll 2: 4 --- No Win
+Shooter 149 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 149 - Roll 4: 5 --- No Win
+Shooter hit the point (5)
+Shooter 149 - Roll 5: 8 --- Point set to: 8
+Shooter 149 - Roll 6: 5 --- No Win
+Shooter 149 - Roll 7: 10 --- No Win
+Shooter 149 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 150 - Roll 1: 9 --- Point set to: 9
+Shooter 150 - Roll 2: 4 --- No Win
+Shooter 150 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 150 - Roll 4: 2 --- No Point Set.
+Shooter 150 - Roll 5: 6 --- Point set to: 6
+Shooter 150 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 151 - Roll 1: 8 --- Point set to: 8
+Shooter 151 - Roll 2: 9 --- No Win
+Shooter 151 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 152 - Roll 1: 9 --- Point set to: 9
+Shooter 152 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 152 - Roll 3: 12 --- Push.
+Shooter 152 - Roll 4: 9 --- No Win
+Shooter hit the point (9)
+Shooter 152 - Roll 5: 6 --- Point set to: 6
+Shooter 152 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 153 - Roll 1: 6 --- Point set to: 6
+Shooter 153 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 153 - Roll 3: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 153 - Roll 4: 4 --- No Win
+Shooter 153 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 154 - Roll 1: 8 --- Point set to: 8
+Shooter 154 - Roll 2: 10 --- No Win
+Shooter 154 - Roll 3: 10 --- No Win
+Shooter 154 - Roll 4: 4 --- No Win
+Shooter 154 - Roll 5: 5 --- No Win
+Shooter 154 - Roll 6: 9 --- No Win
+Shooter 154 - Roll 7: 12 --- Push.
+Shooter 154 - Roll 8: 3 --- Push.
+Shooter 154 - Roll 9: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 154 - Roll 10: 10 --- No Win
+Shooter 154 - Roll 11: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 155 - Roll 1: 2 --- No Point Set.
+Shooter 155 - Roll 2: 5 --- Point set to: 5
+Shooter 155 - Roll 3: 3 --- Push.
+Shooter 155 - Roll 4: 11 --- Push.
+Shooter 155 - Roll 5: 5 --- No Win
+Shooter hit the point (5)
+Shooter 155 - Roll 6: 6 --- Point set to: 6
+Shooter 155 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 156 - Roll 1: 2 --- No Point Set.
+Shooter 156 - Roll 2: 9 --- Point set to: 9
+Shooter 156 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 156 - Roll 4: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 156 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 156 - Roll 6: 5 --- No Win
+Shooter 156 - Roll 7: 3 --- Push.
+Shooter 156 - Roll 8: 9 --- No Win
+Shooter hit the point (9)
+Shooter 156 - Roll 9: 10 --- Point set to: 10
+Shooter 156 - Roll 10: 4 --- No Win
+Shooter 156 - Roll 11: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+Shooter 157 - Roll 1: 4 --- Point set to: 4
+Shooter 157 - Roll 2: 10 --- No Win
+Shooter 157 - Roll 3: 3 --- Push.
+Shooter 157 - Roll 4: 4 --- No Win
+Shooter hit the point (4)
+Shooter 157 - Roll 5: 10 --- Point set to: 10
+Shooter 157 - Roll 6: 3 --- Push.
+Shooter 157 - Roll 7: 4 --- No Win
+Shooter 157 - Roll 8: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 157 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 158 - Roll 1: 7 --- No Point Set.
+Shooter 158 - Roll 2: 7 --- No Point Set.
+Shooter 158 - Roll 3: 9 --- Point set to: 9
+Shooter 158 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 158 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 159 - Roll 1: 11 --- No Point Set.
+Shooter 159 - Roll 2: 5 --- Point set to: 5
+Shooter 159 - Roll 3: 3 --- Push.
+Shooter 159 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 159 - Roll 5: 4 --- No Win
+Shooter 159 - Roll 6: 4 --- No Win
+Shooter 159 - Roll 7: 10 --- No Win
+Shooter 159 - Roll 8: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 159 - Roll 9: 12 --- Push.
+Shooter 159 - Roll 10: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 159 - Roll 11: 11 --- Push.
+Shooter 159 - Roll 12: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 159 - Roll 13: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (5)
+Shooter 159 - Roll 14: 4 --- Point set to: 4
+Shooter 159 - Roll 15: 7 --- Shooter Rolled a 7
+Total Winnings: 15
+Shooter 160 - Roll 1: 9 --- Point set to: 9
+Shooter 160 - Roll 2: 5 --- No Win
+Shooter 160 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 161 - Roll 1: 8 --- Point set to: 8
+Shooter 161 - Roll 2: 3 --- Push.
+Shooter 161 - Roll 3: 11 --- Push.
+Shooter 161 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 162 - Roll 1: 11 --- No Point Set.
+Shooter 162 - Roll 2: 5 --- Point set to: 5
+Shooter 162 - Roll 3: 12 --- Push.
+Shooter 162 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 162 - Roll 5: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 162 - Roll 6: 11 --- Push.
+Shooter 162 - Roll 7: 5 --- No Win
+Shooter hit the point (5)
+Shooter 162 - Roll 8: 8 --- Point set to: 8
+Shooter 162 - Roll 9: 12 --- Push.
+Shooter 162 - Roll 10: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 162 - Roll 11: 7 --- Shooter Rolled a 7
+Total Winnings: 20
+Shooter 163 - Roll 1: 9 --- Point set to: 9
+Shooter 163 - Roll 2: 3 --- Push.
+Shooter 163 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 164 - Roll 1: 7 --- No Point Set.
+Shooter 164 - Roll 2: 5 --- Point set to: 5
+Shooter 164 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 164 - Roll 4: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 164 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 165 - Roll 1: 5 --- Point set to: 5
+Shooter 165 - Roll 2: 4 --- No Win
+Shooter 165 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 166 - Roll 1: 9 --- Point set to: 9
+Shooter 166 - Roll 2: 11 --- Push.
+Shooter 166 - Roll 3: 4 --- No Win
+Shooter 166 - Roll 4: 11 --- Push.
+Shooter 166 - Roll 5: 9 --- No Win
+Shooter hit the point (9)
+Shooter 166 - Roll 6: 10 --- Point set to: 10
+Shooter 166 - Roll 7: 5 --- No Win
+Shooter 166 - Roll 8: 5 --- No Win
+Shooter 166 - Roll 9: 10 --- No Win
+Shooter hit the point (10)
+Shooter 166 - Roll 10: 6 --- Point set to: 6
+Shooter 166 - Roll 11: 5 --- No Win
+Shooter 166 - Roll 12: 5 --- No Win
+Shooter 166 - Roll 13: 9 --- No Win
+Shooter 166 - Roll 14: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 166 - Roll 15: 6 --- Point set to: 6
+Shooter 166 - Roll 16: 3 --- Push.
+Shooter 166 - Roll 17: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter hit the point (6)
+Shooter 166 - Roll 18: 6 --- Point set to: 6
+Shooter 166 - Roll 19: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter hit the point (6)
+Shooter 166 - Roll 20: 10 --- Point set to: 10
+Shooter 166 - Roll 21: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 166 - Roll 22: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 166 - Roll 23: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 166 - Roll 24: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 166 - Roll 25: 5 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 166 - Roll 26: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (10)
+Shooter 166 - Roll 27: 4 --- Point set to: 4
+Shooter 166 - Roll 28: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (4)
+Shooter 166 - Roll 29: 11 --- No Point Set.
+Shooter 166 - Roll 30: 8 --- Point set to: 8
+Shooter 166 - Roll 31: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter hit the point (8)
+Shooter 166 - Roll 32: 6 --- Point set to: 6
+Shooter 166 - Roll 33: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 166 - Roll 34: 4 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 166 - Roll 35: 3 --- Push.
+Shooter 166 - Roll 36: 10 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 166 - Roll 37: 4 --- Won 49 on an initial bet of 25 and pressed to 75.
+Shooter 166 - Roll 38: 7 --- Shooter Rolled a 7
+Total Winnings: 218
+Shooter 167 - Roll 1: 9 --- Point set to: 9
+Shooter 167 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 167 - Roll 3: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 167 - Roll 4: 3 --- Push.
+Shooter 167 - Roll 5: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 167 - Roll 6: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 167 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: 16
+Shooter 168 - Roll 1: 6 --- Point set to: 6
+Shooter 168 - Roll 2: 4 --- No Win
+Shooter 168 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 169 - Roll 1: 6 --- Point set to: 6
+Shooter 169 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 170 - Roll 1: 6 --- Point set to: 6
+Shooter 170 - Roll 2: 12 --- Push.
+Shooter 170 - Roll 3: 11 --- Push.
+Shooter 170 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 170 - Roll 5: 7 --- No Point Set.
+Shooter 170 - Roll 6: 5 --- Point set to: 5
+Shooter 170 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 171 - Roll 1: 6 --- Point set to: 6
+Shooter 171 - Roll 2: 9 --- No Win
+Shooter 171 - Roll 3: 5 --- No Win
+Shooter 171 - Roll 4: 12 --- Push.
+Shooter 171 - Roll 5: 11 --- Push.
+Shooter 171 - Roll 6: 4 --- No Win
+Shooter 171 - Roll 7: 9 --- No Win
+Shooter 171 - Roll 8: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 171 - Roll 9: 9 --- Point set to: 9
+Shooter 171 - Roll 10: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 171 - Roll 11: 5 --- No Win
+Shooter 171 - Roll 12: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 172 - Roll 1: 6 --- Point set to: 6
+Shooter 172 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 172 - Roll 3: 12 --- Push.
+Shooter 172 - Roll 4: 9 --- No Win
+Shooter 172 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 173 - Roll 1: 9 --- Point set to: 9
+Shooter 173 - Roll 2: 9 --- No Win
+Shooter hit the point (9)
+Shooter 173 - Roll 3: 5 --- Point set to: 5
+Shooter 173 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 173 - Roll 5: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 173 - Roll 6: 10 --- No Win
+Shooter 173 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 174 - Roll 1: 10 --- Point set to: 10
+Shooter 174 - Roll 2: 2 --- Push.
+Shooter 174 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 174 - Roll 4: 10 --- No Win
+Shooter hit the point (10)
+Shooter 174 - Roll 5: 8 --- Point set to: 8
+Shooter 174 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 175 - Roll 1: 4 --- Point set to: 4
+Shooter 175 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 175 - Roll 3: 5 --- No Win
+Shooter 175 - Roll 4: 5 --- No Win
+Shooter 175 - Roll 5: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 175 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 176 - Roll 1: 5 --- Point set to: 5
+Shooter 176 - Roll 2: 4 --- No Win
+Shooter 176 - Roll 3: 5 --- No Win
+Shooter hit the point (5)
+Shooter 176 - Roll 4: 12 --- No Point Set.
+Shooter 176 - Roll 5: 8 --- Point set to: 8
+Shooter 176 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 177 - Roll 1: 12 --- No Point Set.
+Shooter 177 - Roll 2: 8 --- Point set to: 8
+Shooter 177 - Roll 3: 4 --- No Win
+Shooter 177 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 177 - Roll 5: 9 --- No Win
+Shooter 177 - Roll 6: 4 --- No Win
+Shooter 177 - Roll 7: 5 --- No Win
+Shooter 177 - Roll 8: 11 --- Push.
+Shooter 177 - Roll 9: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 177 - Roll 10: 5 --- No Win
+Shooter 177 - Roll 11: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 177 - Roll 12: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 177 - Roll 13: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 177 - Roll 14: 4 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 177 - Roll 15: 3 --- Push.
+Shooter 177 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: 75
+Shooter 178 - Roll 1: 3 --- No Point Set.
+Shooter 178 - Roll 2: 5 --- Point set to: 5
+Shooter 178 - Roll 3: 10 --- No Win
+Shooter 178 - Roll 4: 5 --- No Win
+Shooter hit the point (5)
+Shooter 178 - Roll 5: 5 --- Point set to: 5
+Shooter 178 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 179 - Roll 1: 8 --- Point set to: 8
+Shooter 179 - Roll 2: 9 --- No Win
+Shooter 179 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 179 - Roll 4: 5 --- No Win
+Shooter 179 - Roll 5: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 179 - Roll 6: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 179 - Roll 7: 7 --- No Point Set.
+Shooter 179 - Roll 8: 6 --- Point set to: 6
+Shooter 179 - Roll 9: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter hit the point (6)
+Shooter 179 - Roll 10: 9 --- Point set to: 9
+Shooter 179 - Roll 11: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 179 - Roll 12: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 179 - Roll 13: 4 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 179 - Roll 14: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (9)
+Shooter 179 - Roll 15: 10 --- Point set to: 10
+Shooter 179 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: 81
+Shooter 180 - Roll 1: 7 --- No Point Set.
+Shooter 180 - Roll 2: 8 --- Point set to: 8
+Shooter 180 - Roll 3: 5 --- No Win
+Shooter 180 - Roll 4: 2 --- Push.
+Shooter 180 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 181 - Roll 1: 7 --- No Point Set.
+Shooter 181 - Roll 2: 10 --- Point set to: 10
+Shooter 181 - Roll 3: 4 --- No Win
+Shooter 181 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 181 - Roll 5: 9 --- No Win
+Shooter 181 - Roll 6: 9 --- No Win
+Shooter 181 - Roll 7: 9 --- No Win
+Shooter 181 - Roll 8: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 181 - Roll 9: 5 --- No Win
+Shooter 181 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 182 - Roll 1: 3 --- No Point Set.
+Shooter 182 - Roll 2: 7 --- No Point Set.
+Shooter 182 - Roll 3: 8 --- Point set to: 8
+Shooter 182 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 183 - Roll 1: 9 --- Point set to: 9
+Shooter 183 - Roll 2: 3 --- Push.
+Shooter 183 - Roll 3: 5 --- No Win
+Shooter 183 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 183 - Roll 5: 9 --- No Win
+Shooter hit the point (9)
+Shooter 183 - Roll 6: 6 --- Point set to: 6
+Shooter 183 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 184 - Roll 1: 8 --- Point set to: 8
+Shooter 184 - Roll 2: 10 --- No Win
+Shooter 184 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 185 - Roll 1: 7 --- No Point Set.
+Shooter 185 - Roll 2: 8 --- Point set to: 8
+Shooter 185 - Roll 3: 11 --- Push.
+Shooter 185 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 186 - Roll 1: 10 --- Point set to: 10
+Shooter 186 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 187 - Roll 1: 10 --- Point set to: 10
+Shooter 187 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 188 - Roll 1: 10 --- Point set to: 10
+Shooter 188 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 188 - Roll 3: 4 --- No Win
+Shooter 188 - Roll 4: 4 --- No Win
+Shooter 188 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 189 - Roll 1: 9 --- Point set to: 9
+Shooter 189 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 190 - Roll 1: 4 --- Point set to: 4
+Shooter 190 - Roll 2: 5 --- No Win
+Shooter 190 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 191 - Roll 1: 8 --- Point set to: 8
+Shooter 191 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 191 - Roll 3: 4 --- No Win
+Shooter 191 - Roll 4: 5 --- No Win
+Shooter 191 - Roll 5: 10 --- No Win
+Shooter 191 - Roll 6: 4 --- No Win
+Shooter 191 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 192 - Roll 1: 2 --- No Point Set.
+Shooter 192 - Roll 2: 7 --- No Point Set.
+Shooter 192 - Roll 3: 5 --- Point set to: 5
+Shooter 192 - Roll 4: 4 --- No Win
+Shooter 192 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 192 - Roll 6: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 192 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 193 - Roll 1: 7 --- No Point Set.
+Shooter 193 - Roll 2: 10 --- Point set to: 10
+Shooter 193 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 193 - Roll 4: 9 --- No Win
+Shooter 193 - Roll 5: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 193 - Roll 6: 5 --- No Win
+Shooter 193 - Roll 7: 12 --- Push.
+Shooter 193 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 194 - Roll 1: 11 --- No Point Set.
+Shooter 194 - Roll 2: 7 --- No Point Set.
+Shooter 194 - Roll 3: 8 --- Point set to: 8
+Shooter 194 - Roll 4: 9 --- No Win
+Shooter 194 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 195 - Roll 1: 11 --- No Point Set.
+Shooter 195 - Roll 2: 2 --- No Point Set.
+Shooter 195 - Roll 3: 2 --- No Point Set.
+Shooter 195 - Roll 4: 6 --- Point set to: 6
+Shooter 195 - Roll 5: 5 --- No Win
+Shooter 195 - Roll 6: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 195 - Roll 7: 8 --- Point set to: 8
+Shooter 195 - Roll 8: 4 --- No Win
+Shooter 195 - Roll 9: 12 --- Push.
+Shooter 195 - Roll 10: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 195 - Roll 11: 7 --- No Point Set.
+Shooter 195 - Roll 12: 8 --- Point set to: 8
+Shooter 195 - Roll 13: 9 --- No Win
+Shooter 195 - Roll 14: 4 --- No Win
+Shooter 195 - Roll 15: 2 --- Push.
+Shooter 195 - Roll 16: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 196 - Roll 1: 4 --- Point set to: 4
+Shooter 196 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 197 - Roll 1: 7 --- No Point Set.
+Shooter 197 - Roll 2: 11 --- No Point Set.
+Shooter 197 - Roll 3: 5 --- Point set to: 5
+Shooter 197 - Roll 4: 4 --- No Win
+Shooter 197 - Roll 5: 11 --- Push.
+Shooter 197 - Roll 6: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 197 - Roll 7: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 197 - Roll 8: 5 --- No Win
+Shooter hit the point (5)
+Shooter 197 - Roll 9: 9 --- Point set to: 9
+Shooter 197 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 198 - Roll 1: 6 --- Point set to: 6
+Shooter 198 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 199 - Roll 1: 5 --- Point set to: 5
+Shooter 199 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 199 - Roll 3: 5 --- No Win
+Shooter hit the point (5)
+Shooter 199 - Roll 4: 11 --- No Point Set.
+Shooter 199 - Roll 5: 8 --- Point set to: 8
+Shooter 199 - Roll 6: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter hit the point (8)
+Shooter 199 - Roll 7: 6 --- Point set to: 6
+Shooter 199 - Roll 8: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 199 - Roll 9: 2 --- Push.
+Shooter 199 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: 20
+Shooter 200 - Roll 1: 10 --- Point set to: 10
+Shooter 200 - Roll 2: 11 --- Push.
+Shooter 200 - Roll 3: 4 --- No Win
+Shooter 200 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 200 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 201 - Roll 1: 4 --- Point set to: 4
+Shooter 201 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 201 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 202 - Roll 1: 7 --- No Point Set.
+Shooter 202 - Roll 2: 5 --- Point set to: 5
+Shooter 202 - Roll 3: 11 --- Push.
+Shooter 202 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 203 - Roll 1: 7 --- No Point Set.
+Shooter 203 - Roll 2: 10 --- Point set to: 10
+Shooter 203 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 203 - Roll 4: 10 --- No Win
+Shooter hit the point (10)
+Shooter 203 - Roll 5: 6 --- Point set to: 6
+Shooter 203 - Roll 6: 4 --- No Win
+Shooter 203 - Roll 7: 6 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (6)
+Shooter 203 - Roll 8: 5 --- Point set to: 5
+Shooter 203 - Roll 9: 5 --- No Win
+Shooter hit the point (5)
+Shooter 203 - Roll 10: 7 --- No Point Set.
+Shooter 203 - Roll 11: 6 --- Point set to: 6
+Shooter 203 - Roll 12: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 203 - Roll 13: 10 --- No Win
+Shooter 203 - Roll 14: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 203 - Roll 15: 7 --- Shooter Rolled a 7
+Total Winnings: 13
+Shooter 204 - Roll 1: 8 --- Point set to: 8
+Shooter 204 - Roll 2: 9 --- No Win
+Shooter 204 - Roll 3: 4 --- No Win
+Shooter 204 - Roll 4: 11 --- Push.
+Shooter 204 - Roll 5: 4 --- No Win
+Shooter 204 - Roll 6: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 204 - Roll 7: 4 --- No Win
+Shooter 204 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 205 - Roll 1: 9 --- Point set to: 9
+Shooter 205 - Roll 2: 10 --- No Win
+Shooter 205 - Roll 3: 2 --- Push.
+Shooter 205 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 206 - Roll 1: 10 --- Point set to: 10
+Shooter 206 - Roll 2: 4 --- No Win
+Shooter 206 - Roll 3: 5 --- No Win
+Shooter 206 - Roll 4: 9 --- No Win
+Shooter 206 - Roll 5: 2 --- Push.
+Shooter 206 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 207 - Roll 1: 3 --- No Point Set.
+Shooter 207 - Roll 2: 8 --- Point set to: 8
+Shooter 207 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 208 - Roll 1: 12 --- No Point Set.
+Shooter 208 - Roll 2: 9 --- Point set to: 9
+Shooter 208 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 208 - Roll 4: 7 --- No Point Set.
+Shooter 208 - Roll 5: 5 --- Point set to: 5
+Shooter 208 - Roll 6: 10 --- No Win
+Shooter 208 - Roll 7: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 208 - Roll 8: 12 --- Push.
+Shooter 208 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 209 - Roll 1: 5 --- Point set to: 5
+Shooter 209 - Roll 2: 5 --- No Win
+Shooter hit the point (5)
+Shooter 209 - Roll 3: 8 --- Point set to: 8
+Shooter 209 - Roll 4: 4 --- No Win
+Shooter 209 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 210 - Roll 1: 5 --- Point set to: 5
+Shooter 210 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 210 - Roll 3: 5 --- No Win
+Shooter hit the point (5)
+Shooter 210 - Roll 4: 5 --- Point set to: 5
+Shooter 210 - Roll 5: 10 --- No Win
+Shooter 210 - Roll 6: 10 --- No Win
+Shooter 210 - Roll 7: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 210 - Roll 8: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 210 - Roll 9: 4 --- No Win
+Shooter 210 - Roll 10: 9 --- No Win
+Shooter 210 - Roll 11: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 210 - Roll 12: 7 --- Shooter Rolled a 7
+Total Winnings: 34
+Shooter 211 - Roll 1: 8 --- Point set to: 8
+Shooter 211 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 212 - Roll 1: 3 --- No Point Set.
+Shooter 212 - Roll 2: 10 --- Point set to: 10
+Shooter 212 - Roll 3: 5 --- No Win
+Shooter 212 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 213 - Roll 1: 4 --- Point set to: 4
+Shooter 213 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 214 - Roll 1: 5 --- Point set to: 5
+Shooter 214 - Roll 2: 4 --- No Win
+Shooter 214 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 215 - Roll 1: 6 --- Point set to: 6
+Shooter 215 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 216 - Roll 1: 9 --- Point set to: 9
+Shooter 216 - Roll 2: 5 --- No Win
+Shooter 216 - Roll 3: 5 --- No Win
+Shooter 216 - Roll 4: 10 --- No Win
+Shooter 216 - Roll 5: 4 --- No Win
+Shooter 216 - Roll 6: 5 --- No Win
+Shooter 216 - Roll 7: 9 --- No Win
+Shooter hit the point (9)
+Shooter 216 - Roll 8: 6 --- Point set to: 6
+Shooter 216 - Roll 9: 9 --- No Win
+Shooter 216 - Roll 10: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 216 - Roll 11: 8 --- Point set to: 8
+Shooter 216 - Roll 12: 4 --- No Win
+Shooter 216 - Roll 13: 12 --- Push.
+Shooter 216 - Roll 14: 12 --- Push.
+Shooter 216 - Roll 15: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 216 - Roll 16: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 216 - Roll 17: 7 --- Shooter Rolled a 7
+Total Winnings: 20
+Shooter 217 - Roll 1: 6 --- Point set to: 6
+Shooter 217 - Roll 2: 3 --- Push.
+Shooter 217 - Roll 3: 10 --- No Win
+Shooter 217 - Roll 4: 12 --- Push.
+Shooter 217 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 217 - Roll 6: 10 --- Point set to: 10
+Shooter 217 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 218 - Roll 1: 7 --- No Point Set.
+Shooter 218 - Roll 2: 8 --- Point set to: 8
+Shooter 218 - Roll 3: 2 --- Push.
+Shooter 218 - Roll 4: 3 --- Push.
+Shooter 218 - Roll 5: 10 --- No Win
+Shooter 218 - Roll 6: 4 --- No Win
+Shooter 218 - Roll 7: 11 --- Push.
+Shooter 218 - Roll 8: 3 --- Push.
+Shooter 218 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 219 - Roll 1: 3 --- No Point Set.
+Shooter 219 - Roll 2: 7 --- No Point Set.
+Shooter 219 - Roll 3: 6 --- Point set to: 6
+Shooter 219 - Roll 4: 5 --- No Win
+Shooter 219 - Roll 5: 3 --- Push.
+Shooter 219 - Roll 6: 4 --- No Win
+Shooter 219 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 219 - Roll 8: 7 --- No Point Set.
+Shooter 219 - Roll 9: 6 --- Point set to: 6
+Shooter 219 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 220 - Roll 1: 5 --- Point set to: 5
+Shooter 220 - Roll 2: 9 --- No Win
+Shooter 220 - Roll 3: 9 --- No Win
+Shooter 220 - Roll 4: 9 --- No Win
+Shooter 220 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 220 - Roll 6: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 220 - Roll 7: 11 --- Push.
+Shooter 220 - Roll 8: 10 --- No Win
+Shooter 220 - Roll 9: 4 --- No Win
+Shooter 220 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 221 - Roll 1: 8 --- Point set to: 8
+Shooter 221 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 221 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 222 - Roll 1: 7 --- No Point Set.
+Shooter 222 - Roll 2: 9 --- Point set to: 9
+Shooter 222 - Roll 3: 9 --- No Win
+Shooter hit the point (9)
+Shooter 222 - Roll 4: 7 --- No Point Set.
+Shooter 222 - Roll 5: 8 --- Point set to: 8
+Shooter 222 - Roll 6: 10 --- No Win
+Shooter 222 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 222 - Roll 8: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 222 - Roll 9: 8 --- Point set to: 8
+Shooter 222 - Roll 10: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 223 - Roll 1: 3 --- No Point Set.
+Shooter 223 - Roll 2: 3 --- No Point Set.
+Shooter 223 - Roll 3: 7 --- No Point Set.
+Shooter 223 - Roll 4: 4 --- Point set to: 4
+Shooter 223 - Roll 5: 4 --- No Win
+Shooter hit the point (4)
+Shooter 223 - Roll 6: 5 --- Point set to: 5
+Shooter 223 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 223 - Roll 8: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 223 - Roll 9: 7 --- Shooter Rolled a 7
+Total Winnings: 7
+Shooter 224 - Roll 1: 4 --- Point set to: 4
+Shooter 224 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 224 - Roll 3: 10 --- No Win
+Shooter 224 - Roll 4: 5 --- No Win
+Shooter 224 - Roll 5: 9 --- No Win
+Shooter 224 - Roll 6: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 224 - Roll 7: 5 --- No Win
+Shooter 224 - Roll 8: 5 --- No Win
+Shooter 224 - Roll 9: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 224 - Roll 10: 3 --- Push.
+Shooter 224 - Roll 11: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 224 - Roll 12: 7 --- Shooter Rolled a 7
+Total Winnings: 19
+Shooter 225 - Roll 1: 10 --- Point set to: 10
+Shooter 225 - Roll 2: 9 --- No Win
+Shooter 225 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 225 - Roll 4: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 225 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 225 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: 3
+Shooter 226 - Roll 1: 5 --- Point set to: 5
+Shooter 226 - Roll 2: 3 --- Push.
+Shooter 226 - Roll 3: 4 --- No Win
+Shooter 226 - Roll 4: 4 --- No Win
+Shooter 226 - Roll 5: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 226 - Roll 6: 4 --- No Win
+Shooter 226 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 227 - Roll 1: 7 --- No Point Set.
+Shooter 227 - Roll 2: 10 --- Point set to: 10
+Shooter 227 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 227 - Roll 4: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 227 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 227 - Roll 6: 3 --- Push.
+Shooter 227 - Roll 7: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 227 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: 13
+Shooter 228 - Roll 1: 5 --- Point set to: 5
+Shooter 228 - Roll 2: 3 --- Push.
+Shooter 228 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 228 - Roll 4: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 228 - Roll 5: 5 --- No Win
+Shooter hit the point (5)
+Shooter 228 - Roll 6: 12 --- No Point Set.
+Shooter 228 - Roll 7: 4 --- Point set to: 4
+Shooter 228 - Roll 8: 3 --- Push.
+Shooter 228 - Roll 9: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 228 - Roll 10: 9 --- No Win
+Shooter 228 - Roll 11: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 228 - Roll 12: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 228 - Roll 13: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (4)
+Shooter 228 - Roll 14: 9 --- Point set to: 9
+Shooter 228 - Roll 15: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 228 - Roll 16: 10 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 228 - Roll 17: 12 --- Push.
+Shooter 228 - Roll 18: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 228 - Roll 19: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 228 - Roll 20: 2 --- Push.
+Shooter 228 - Roll 21: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter hit the point (9)
+Shooter 228 - Roll 22: 3 --- No Point Set.
+Shooter 228 - Roll 23: 7 --- No Point Set.
+Shooter 228 - Roll 24: 7 --- No Point Set.
+Shooter 228 - Roll 25: 10 --- Point set to: 10
+Shooter 228 - Roll 26: 9 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter 228 - Roll 27: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 228 - Roll 28: 3 --- Push.
+Shooter 228 - Roll 29: 4 --- Won 49 on an initial bet of 25 and collected it.
+Shooter 228 - Roll 30: 6 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 228 - Roll 31: 10 --- Won 49 on an initial bet of 25 and collected it.
+Shooter hit the point (10)
+Shooter 228 - Roll 32: 7 --- No Point Set.
+Shooter 228 - Roll 33: 10 --- Point set to: 10
+Shooter 228 - Roll 34: 3 --- Push.
+Shooter 228 - Roll 35: 8 --- Won 35 on an initial bet of 30 and pressed to 66.
+Shooter 228 - Roll 36: 10 --- Won 49 on an initial bet of 25 and pressed to 75.
+Shooter hit the point (10)
+Shooter 228 - Roll 37: 8 --- Point set to: 8
+Shooter 228 - Roll 38: 10 --- Won 146 on an initial bet of 75 and collected it.
+Shooter 228 - Roll 39: 8 --- Won 77 on an initial bet of 66 and collected it.
+Shooter hit the point (8)
+Shooter 228 - Roll 40: 11 --- No Point Set.
+Shooter 228 - Roll 41: 9 --- Point set to: 9
+Shooter 228 - Roll 42: 9 --- Won 84 on an initial bet of 60 and collected it.
+Shooter hit the point (9)
+Shooter 228 - Roll 43: 6 --- Point set to: 6
+Shooter 228 - Roll 44: 4 --- Won 49 on an initial bet of 25 and pressed to 75.
+Shooter 228 - Roll 45: 6 --- Won 77 on an initial bet of 66 and collected it.
+Shooter hit the point (6)
+Shooter 228 - Roll 46: 6 --- Point set to: 6
+Shooter 228 - Roll 47: 11 --- Push.
+Shooter 228 - Roll 48: 8 --- Won 77 on an initial bet of 66 and pressed to 150.
+Shooter 228 - Roll 49: 8 --- Won 175 on an initial bet of 150 and collected it.
+Shooter 228 - Roll 50: 6 --- Won 77 on an initial bet of 66 and pressed to 150.
+Shooter hit the point (6)
+Shooter 228 - Roll 51: 8 --- Point set to: 8
+Shooter 228 - Roll 52: 7 --- Shooter Rolled a 7
+Total Winnings: 775
+Shooter 229 - Roll 1: 5 --- Point set to: 5
+Shooter 229 - Roll 2: 4 --- No Win
+Shooter 229 - Roll 3: 9 --- No Win
+Shooter 229 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 230 - Roll 1: 9 --- Point set to: 9
+Shooter 230 - Roll 2: 2 --- Push.
+Shooter 230 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 231 - Roll 1: 6 --- Point set to: 6
+Shooter 231 - Roll 2: 10 --- No Win
+Shooter 231 - Roll 3: 5 --- No Win
+Shooter 231 - Roll 4: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 231 - Roll 5: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 231 - Roll 6: 10 --- No Win
+Shooter 231 - Roll 7: 3 --- Push.
+Shooter 231 - Roll 8: 11 --- Push.
+Shooter 231 - Roll 9: 9 --- No Win
+Shooter 231 - Roll 10: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 231 - Roll 11: 7 --- No Point Set.
+Shooter 231 - Roll 12: 7 --- No Point Set.
+Shooter 231 - Roll 13: 10 --- Point set to: 10
+Shooter 231 - Roll 14: 9 --- No Win
+Shooter 231 - Roll 15: 9 --- No Win
+Shooter 231 - Roll 16: 6 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 231 - Roll 17: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 231 - Roll 18: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 231 - Roll 19: 3 --- Push.
+Shooter 231 - Roll 20: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 231 - Roll 21: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 231 - Roll 22: 9 --- Won 35 on an initial bet of 25 and pressed to 60.
+Shooter 231 - Roll 23: 5 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter 231 - Roll 24: 7 --- Shooter Rolled a 7
+Total Winnings: 66
+Shooter 232 - Roll 1: 8 --- Point set to: 8
+Shooter 232 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 232 - Roll 3: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 233 - Roll 1: 6 --- Point set to: 6
+Shooter 233 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 233 - Roll 3: 3 --- Push.
+Shooter 233 - Roll 4: 4 --- No Win
+Shooter 233 - Roll 5: 3 --- Push.
+Shooter 233 - Roll 6: 3 --- Push.
+Shooter 233 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 234 - Roll 1: 5 --- Point set to: 5
+Shooter 234 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 234 - Roll 3: 9 --- No Win
+Shooter 234 - Roll 4: 4 --- No Win
+Shooter 234 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 235 - Roll 1: 7 --- No Point Set.
+Shooter 235 - Roll 2: 7 --- No Point Set.
+Shooter 235 - Roll 3: 7 --- No Point Set.
+Shooter 235 - Roll 4: 8 --- Point set to: 8
+Shooter 235 - Roll 5: 10 --- No Win
+Shooter 235 - Roll 6: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 235 - Roll 7: 8 --- Point set to: 8
+Shooter 235 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 236 - Roll 1: 8 --- Point set to: 8
+Shooter 236 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 237 - Roll 1: 7 --- No Point Set.
+Shooter 237 - Roll 2: 4 --- Point set to: 4
+Shooter 237 - Roll 3: 11 --- Push.
+Shooter 237 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 238 - Roll 1: 8 --- Point set to: 8
+Shooter 238 - Roll 2: 5 --- No Win
+Shooter 238 - Roll 3: 10 --- No Win
+Shooter 238 - Roll 4: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 239 - Roll 1: 8 --- Point set to: 8
+Shooter 239 - Roll 2: 5 --- No Win
+Shooter 239 - Roll 3: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 239 - Roll 4: 4 --- Point set to: 4
+Shooter 239 - Roll 5: 7 --- Shooter Rolled a 7
+Total Winnings: -28
+Shooter 240 - Roll 1: 11 --- No Point Set.
+Shooter 240 - Roll 2: 7 --- No Point Set.
+Shooter 240 - Roll 3: 7 --- No Point Set.
+Shooter 240 - Roll 4: 10 --- Point set to: 10
+Shooter 240 - Roll 5: 9 --- No Win
+Shooter 240 - Roll 6: 5 --- No Win
+Shooter 240 - Roll 7: 12 --- Push.
+Shooter 240 - Roll 8: 4 --- No Win
+Shooter 240 - Roll 9: 10 --- No Win
+Shooter hit the point (10)
+Shooter 240 - Roll 10: 7 --- No Point Set.
+Shooter 240 - Roll 11: 3 --- No Point Set.
+Shooter 240 - Roll 12: 5 --- Point set to: 5
+Shooter 240 - Roll 13: 9 --- No Win
+Shooter 240 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 241 - Roll 1: 3 --- No Point Set.
+Shooter 241 - Roll 2: 5 --- Point set to: 5
+Shooter 241 - Roll 3: 10 --- No Win
+Shooter 241 - Roll 4: 9 --- No Win
+Shooter 241 - Roll 5: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 241 - Roll 6: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 241 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 242 - Roll 1: 9 --- Point set to: 9
+Shooter 242 - Roll 2: 4 --- No Win
+Shooter 242 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 242 - Roll 4: 9 --- No Win
+Shooter hit the point (9)
+Shooter 242 - Roll 5: 6 --- Point set to: 6
+Shooter 242 - Roll 6: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 242 - Roll 7: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 242 - Roll 8: 7 --- No Point Set.
+Shooter 242 - Roll 9: 9 --- Point set to: 9
+Shooter 242 - Roll 10: 4 --- No Win
+Shooter 242 - Roll 11: 10 --- No Win
+Shooter 242 - Roll 12: 5 --- No Win
+Shooter 242 - Roll 13: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 242 - Roll 14: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 242 - Roll 15: 9 --- Won 14 on an initial bet of 10 and pressed to 25.
+Shooter hit the point (9)
+Shooter 242 - Roll 16: 10 --- Point set to: 10
+Shooter 242 - Roll 17: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 242 - Roll 18: 9 --- Won 35 on an initial bet of 25 and collected it.
+Shooter 242 - Roll 19: 7 --- Shooter Rolled a 7
+Total Winnings: 64
+Shooter 243 - Roll 1: 7 --- No Point Set.
+Shooter 243 - Roll 2: 8 --- Point set to: 8
+Shooter 243 - Roll 3: 5 --- No Win
+Shooter 243 - Roll 4: 10 --- No Win
+Shooter 243 - Roll 5: 3 --- Push.
+Shooter 243 - Roll 6: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 244 - Roll 1: 6 --- Point set to: 6
+Shooter 244 - Roll 2: 10 --- No Win
+Shooter 244 - Roll 3: 4 --- No Win
+Shooter 244 - Roll 4: 12 --- Push.
+Shooter 244 - Roll 5: 3 --- Push.
+Shooter 244 - Roll 6: 9 --- No Win
+Shooter 244 - Roll 7: 11 --- Push.
+Shooter 244 - Roll 8: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 244 - Roll 9: 5 --- No Win
+Shooter 244 - Roll 10: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 244 - Roll 11: 2 --- Push.
+Shooter 244 - Roll 12: 8 --- Won 35 on an initial bet of 30 and collected it.
+Moved to 64 across.
+Shooter 244 - Roll 13: 4 --- Won 18 on an initial bet of 10 and pressed to 25.
+Shooter 244 - Roll 14: 7 --- Shooter Rolled a 7
+Total Winnings: 23
+Shooter 245 - Roll 1: 6 --- Point set to: 6
+Shooter 245 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 246 - Roll 1: 7 --- No Point Set.
+Shooter 246 - Roll 2: 11 --- No Point Set.
+Shooter 246 - Roll 3: 8 --- Point set to: 8
+Shooter 246 - Roll 4: 5 --- No Win
+Shooter 246 - Roll 5: 5 --- No Win
+Shooter 246 - Roll 6: 5 --- No Win
+Shooter 246 - Roll 7: 3 --- Push.
+Shooter 246 - Roll 8: 3 --- Push.
+Shooter 246 - Roll 9: 9 --- No Win
+Shooter 246 - Roll 10: 4 --- No Win
+Shooter 246 - Roll 11: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 246 - Roll 12: 4 --- No Win
+Shooter 246 - Roll 13: 6 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 246 - Roll 14: 4 --- No Win
+Shooter 246 - Roll 15: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 246 - Roll 16: 6 --- Point set to: 6
+Shooter 246 - Roll 17: 4 --- No Win
+Shooter 246 - Roll 18: 7 --- Shooter Rolled a 7
+Total Winnings: 3
+Shooter 247 - Roll 1: 8 --- Point set to: 8
+Shooter 247 - Roll 2: 7 --- Shooter Rolled a 7
+Total Winnings: -24
+Shooter 248 - Roll 1: 4 --- Point set to: 4
+Shooter 248 - Roll 2: 9 --- No Win
+Shooter 248 - Roll 3: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 248 - Roll 4: 5 --- No Win
+Shooter 248 - Roll 5: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter 248 - Roll 6: 9 --- No Win
+Shooter 248 - Roll 7: 7 --- Shooter Rolled a 7
+Total Winnings: -14
+Shooter 249 - Roll 1: 6 --- Point set to: 6
+Shooter 249 - Roll 2: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 249 - Roll 3: 8 --- Won 35 on an initial bet of 30 and collected it.
+Shooter 249 - Roll 4: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (6)
+Shooter 249 - Roll 5: 7 --- No Point Set.
+Shooter 249 - Roll 6: 5 --- Point set to: 5
+Shooter 249 - Roll 7: 4 --- No Win
+Shooter 249 - Roll 8: 7 --- Shooter Rolled a 7
+Total Winnings: 3
+Shooter 250 - Roll 1: 9 --- Point set to: 9
+Shooter 250 - Roll 2: 6 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter 250 - Roll 3: 10 --- No Win
+Shooter 250 - Roll 4: 9 --- No Win
+Shooter hit the point (9)
+Shooter 250 - Roll 5: 8 --- Point set to: 8
+Shooter 250 - Roll 6: 10 --- No Win
+Shooter 250 - Roll 7: 10 --- No Win
+Shooter 250 - Roll 8: 8 --- Won 14 on an initial bet of 12 and collected it.
+Reset to 12 and 12 on 6/8
+Shooter hit the point (8)
+Shooter 250 - Roll 9: 2 --- No Point Set.
+Shooter 250 - Roll 10: 8 --- Point set to: 8
+Shooter 250 - Roll 11: 11 --- Push.
+Shooter 250 - Roll 12: 9 --- No Win
+Shooter 250 - Roll 13: 8 --- Won 14 on an initial bet of 12 and pressed to 30.
+Shooter hit the point (8)
+Shooter 250 - Roll 14: 11 --- No Point Set.
+Shooter 250 - Roll 15: 8 --- Point set to: 8
+Shooter 250 - Roll 16: 4 --- No Win
+Shooter 250 - Roll 17: 7 --- Shooter Rolled a 7
+Total Winnings: 0
+
+
+
+
+Total Shooters: 250
+
+Winning Shooters: 81
+Avg Money won per win: 54
+
+Losing Shooters: 169
+Avg Money won per win: -23
+
+Total winnings: 405
+---------------------
+The program '[315192] CrapsStrategySimulation.exe' has exited with code 0 (0x0).
